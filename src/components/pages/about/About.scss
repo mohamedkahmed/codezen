@@ -1,0 +1,189 @@
+@import "../../variables/variables.scss";
+.about {
+  padding: $padding_80;
+  .about-up {
+    text-align: center;
+    .text {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      text-align: start;
+
+      h4 {
+        text-transform: capitalize;
+        margin-bottom: 10px;
+        font-weight: bold;
+      }
+      p {
+        text-transform: capitalize;
+        line-height: 1.8;
+        color: $color_3;
+        font-size: $font_16;
+        margin: 10px 0;
+        color: $color_3;
+      }
+    }
+  }
+  .about-center {
+    text-align: center;
+    padding: $padding_80;
+    .title-text-up {
+      margin-bottom: 100px;
+      text-transform: capitalize;
+      h2 {
+        font-size: 25px;
+      }
+      h3 {
+        font-size: 18px;
+        max-width: 80%;
+        margin: 15px auto;
+        color: $color_3;
+      }
+    }
+    .about-center-content {
+      margin-bottom: 25px;
+      transition: $tran_3;
+      position: relative;
+      padding: 85px 35px 40px;
+      border-radius: $border_radius;
+      &:hover {
+        box-shadow: 8px 8px 30px 0 rgba(39, 56, 87, 0.15);
+      }
+      .number-box {
+        width: 70px;
+        height: 70px;
+        line-height: 70px;
+        text-align: center;
+        color: #fff;
+        font-size: 24px;
+        font-weight: 900;
+        font-family: "Red Hat Display", sans-serif;
+        display: inline-block;
+        position: absolute;
+        left: 50%;
+        top: -35px;
+        margin-left: -35px;
+        margin-bottom: 45px;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        box-shadow: 10px 10px 30px 0px rgba(255, 196, 0, 0.3);
+        -webkit-box-shadow: 10px 10px 30px 0px rgba(255, 196, 0, 0.3);
+        background-color: $color_1;
+        background-image: linear-gradient(145deg, $color_1, $color_2);
+      }
+      .img-box {
+        img {
+          width: 180px;
+          margin-bottom: 20px;
+        }
+      }
+      .text-box {
+        text-transform: capitalize;
+        h3 {
+          font-size: 25px;
+          margin-bottom: 10px;  
+        }
+        p {
+          font-size: 14px;
+          line-height: 1.7;
+        }
+      }
+    }
+  }
+  .meber {
+    text-align: center;
+    padding: 30px 0;
+    
+    .member_rapper {
+      padding-top: 40px;
+          .card_meber{
+            padding: 20px;
+            border-radius: $border_radius;
+            text-align: center;
+            color: white !important;
+            background-color: $color_2;
+            display: grid;
+            place-items: center;
+            margin-bottom: 20px;
+            -webkit-box-shadow: $shadowBox;
+            -moz-box-shadow: $shadowBox;
+            box-shadow: 8px 8px 15px 0 rgb(39 38 38 / 45%);
+            .image_meber{
+              width: 150px;
+              height: 150px;
+              border-radius: 50%;
+              margin: 0 0 10px;
+              img{
+                width: 100%;
+                height: 100%;
+                border-radius: 50%;
+                object-fit: cover;
+              }
+              
+            }
+            h4{
+              margin: 10px 0;
+              text-transform: capitalize;
+            }
+            .jop{
+              color: $color_1;
+              text-transform: capitalize;
+            }
+            .subtitle{
+              margin: 5px 0 0;
+              font-size: $font_14;
+              color: $color_4;
+              
+            }
+            hr{
+              color: rgb(216, 216, 216);
+              width: 100%;
+              height: 1px;
+            }
+            .to_member_details{
+              text-transform: capitalize;
+              font-size: 14px;
+              font-weight: bold;
+              color: $color_5;
+            }
+          }
+    }
+ 
+  }
+  .content-center {
+    width: 100%;
+    text-align: center;
+    text-transform: capitalize;
+    color: $color_3;
+  }
+}
+@media screen and (max-width: 768px) {
+  .about-up {
+    .text {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      text-align: start;
+      margin-top: 17px;
+      
+
+      h2 {
+        text-transform: capitalize;
+        margin-bottom: 10px;
+        font-weight: bold;
+        font-size: 16px;
+      }
+      p {
+        text-transform: capitalize;
+        line-height: 1.8;
+        font-size: 14px !important;
+        margin: 10px 0;
+        color: $color_3;
+      }
+    }
+  } 
+}

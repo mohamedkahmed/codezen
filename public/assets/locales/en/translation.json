@@ -1,0 +1,656 @@
+{
+  "title": "CodeZen",
+  "lang": "language",
+  "home": "home",
+  "navbarlinks": [
+      {
+          "id":1,
+          "text":"home",
+          "href":"/"
+      },
+      {
+          "id":2,
+          "text":"about",
+          "href":"/about"
+      },
+      {
+          "id":3,
+          "text":"servies",
+          "href":"/servies"
+      },
+      {
+          "id":4,
+          "text":"our work",
+          "href":"/our-work"
+      },
+      {
+          "id":5,
+          "text":"contact",
+          "href":"/contact"
+      }
+  ],
+  
+  "servies_more":"Explore More",
+  "order": "start project",
+  "hero_title": "a software house that offers web and apps development services to help you achieve your",
+  "hero_title_span": "goals",
+  "contact_us": "contact us",
+  "who_we_are": "who we are",
+  "servies_header" :"Our services",
+  "servies_text" :"From actionable meeting notes to inspiring project plans, kickstart team participation with a flexible workspace",
+  "servies_singel_title_text": "codezen platform is your best choice to achieve your goals",
+  "servies_breadCrumb": "our servies", 
+  "servies": [
+      {
+          "id":1,
+          "iconUrl": "../../../images/sevices-single-1.png",
+          "explore" :["Responsive design" , "Great user interface" , " Domaine & Hosting " , "Technical support"],
+          "header":"Web Development",
+          "text":"Our company provides integrated web development services to our clients all over the world. We understand that the web is an essential interface for any successful business in the modern digital age, which is why we strive to provide innovative and customized web development solutions.Our distinguished team of experienced developers combine creativity with technical skill to transform your business vision into digital reality. We provide comprehensive web development services from designing attractive user interfaces and smooth user experience, to developing and implementing complex back-end systems"
+      },
+      {
+          "id":2,
+          "iconUrl": "../../../images/sevices-single-2.png",
+          "explore" :["Respoinsev Desigin" , "Clean Code" , "Great user interface " , "Technical support"],
+          "header":"Mobile applications",
+          "text":"We are a specialized company that provides design and development services for mobile applications on both Android and iOS platforms. We help our clients turn their ideas into excellent and user-friendly applications that allow them to reach their audience easily and effectively. Our services include designing and developing customized applications for various fields such as e-commerce, health, travel, entertainment, and many other fields."
+      },
+      {
+          "id":3,
+          "iconUrl": "../../../images/sevices-single-3.png",
+          "header":"Marketing",
+          "explore" :["Audience targeting" , "Brand management" , "Social media marketing" , "Market competitor analysis"],
+          "text":"The efforts and expertise of the work team provide a customized strategy and e-marketing plan suitable for your business to achieve a continuous and rewarding return on your business. The journey starts with a detailed analysis for your business to define exactly what you need for effective digital marketing services and solutions to drive at least the expected return on the allocated budget."
+      },
+      {
+          "id":4,
+          "iconUrl": "../../../images/sevices-single-4.png",
+          "explore" :["Providing safe and reliable payment methods for customers to complete purchases." , "Respoinsev Desigin" , "Providing a smooth and comfortable shopping experience for customers through the online store", "Technical support"],
+          "header":"E-commerce App",
+          "text":"The creation of apps for e-commerce involves enabling businesses to sell goods and services directly to clients. Products listings, shopping carts, payment gateways, order monitoring, and customer administration are among the functions that these apps to give customers a simple and convenient shopping experience that increases revenue and customer loyalty"
+      },
+      {
+          "id":5,
+          "iconUrl": "../../../images/sevices-single-5.png",
+          "explore" :["Test and improve user experience" , "Graphic design and images" , "Color and pattern design " , "User orientation and content curation"],
+          "header":"Ui Ux Design",
+          "text":"UI and UX are important aspects of designing and developing websites and applications. The UI focuses on the visual and attractive aspect of the application, while UX focuses on the overall user experience of the application. UI and UX are integrated together to achieve an enjoyable and user-friendly experience, and the design and development team must work together to ensure this is achieved"
+      },
+      {
+          "id":6,
+          "iconUrl": "../../../images/sevices-single-6.png",
+          "explore" :["Designing logos and brands" , "Sochail Media Design" , "Graphic design and images " , "Designing posters and banners"],
+          "header":"Graphic Design",
+          "text":"We provide graphic design services, which include designing images, graphics, charts, and other visual elements used in marketing, advertising, and communication. Graphic design involves the use of colors, fonts, images, and graphics to convey a specific message and make it more convincing and appealing to customers. We work professionally and aim to achieve the best results for our clients in the shortest possible time"
+      }
+
+  ],
+
+
+  "home_wrapper_2": {
+      "title": "Easy And Perfect Solution For Your Business",
+      "text": "Codezen has been delivering impactful and engaging Mobile & Web products for leading companies across the majority of industries for many years. Leverage our unique and broad-ranging expertise to build a rich-festrong textatured labor management portal, a speedy progressive web app, or even an AR-powered ecommerce store, We deliver comprehensive web development services with clear results and a clear development process.",
+      "feat_1": "MOBILITY STRATEGY",
+      "feat_2": "EASY DEPLOYMENT",
+      "feat_3": "ANALYZING SECURITY",
+      "feat_4": "RESOURCE PLANNING",
+      "feat_5": "USER EXPERIENCE STRUCTURE",
+      "feat_6": "CHOOSING THE OPERATING SYSTEM"
+  },
+
+  "footer_upper": {
+      "best_inbox": "best offers in your inbox",
+      "place_holder": "Your Email",
+      "Subscribe": "Send",
+      "Subscribe2": "send..."
+      
+  },
+
+  "footer_center": {
+      "head_1": "contact us",
+      "head_2": "CodeZen",
+      "head_3": "our services",
+      "address": "giza - egypt",
+      "phone": "+201118459882",
+      "mail": "codezen92@gmail.com"
+  },
+  "footerCenterLinks": [
+      {
+          "id":1,
+          "text":"home",
+          "href":"/"
+      },
+      {
+          "id":2,
+          "text":"our services",
+          "href":"/servies"
+      },
+      {
+          "id":3,
+          "text":"who are we",
+          "href":"/about"
+      },
+      {
+          "id":4,
+          "text":"our project",
+          "href":"/our-work"
+      },
+      {
+          "id":5,
+          "text":"conatct us",
+          "href":"/contact"
+      },
+      {
+          "id":6,
+          "text":"privacy policy",
+          "href":"/privacy"
+      }
+  ],
+  "footerEndLinks": [
+      {
+          "id":1,
+          "text":"web developer",
+          "href":"/servies"
+      },
+      {
+          "id":2,
+          "text":"mobile applications",
+          "href":"/servies"
+      },
+      {
+          "id":3,
+          "text":"marketing",
+          "href":"/servies"
+      },
+      {
+          "id":4,
+          "text":"E-commerce App",
+          "href":"/servies"
+      }
+      ,
+      {
+          "id":5,
+          "text":"Ui Ux design",
+          "href":"/servies"
+      }
+      ,
+      {
+          "id":6,
+          "text":"graphic design",
+          "href":"/servies"
+      }
+  ],
+
+  "footer_copy": "CodeZen. 2023. All rights reserved.",
+
+  "Projects_title":"our work",
+  "Projects_breadCrumb": "our work",
+  "Projects": [
+    {
+      "id": "01",
+      "category": "Mobile App",
+      "bage":{
+        "imgUrl": "../../../images/ui-7.png",
+        "title": "SafePay app",
+        "description":
+          "Welcome to SafePay app, your comprehensive app designed to provide essential information and services for the Hajj pilgrimage. We are proud to present a revolutionary solution that offers detailed insights into the Hajj journey, essential resources about Islam, and a streamlined process for making your pilgrimage dreams a reality.",
+        "technologies": ["html", " css", "js", "bootstrap" , "react"],
+        "siteUrl": "https://astrophile.onrender.com/",
+          "client":{
+            "name":"mohamed ahemd",
+            "urimage":"image"
+          }
+        }
+     
+    },
+      {
+        "id": "02",
+        "category": "Web Design",
+        "bage":{
+          "title": "Trendad company ",
+          "description":
+          "“Trend is your partner in driving success through comprehensive business solutions. It was created with a vision to empower companies across industries. We specialize in a variety of services that meet your needs. Our comprehensive approach includes business protection and business planning.”",
+          "technologies": ["html", " css", "js", "bootstrap"],
+          "imgUrl": "../../../images/trendad.jpeg",
+          "siteUrl": "http://trendad.me/",
+        "client":{
+          "name":"mohamed ahemd",
+          "urimage":""
+        }
+        }
+       
+      
+      },
+      {
+        "id": "03",
+        "category":"Web Design", 
+        "bage":{
+          "imgUrl":"../../../images/Screenshot (145).png",
+          "title": "Zadna platform for marketing",
+          "description":
+            " Zidna platform is a platform for the world of e-marketing. We offer you a summary of our experience, to reach potential customers and achieve your goals. Digital marketing is the first step; In order to build an integrated brand, with us you get an integrated package of services that support your business, communicate now, and develop your business",
+          "technologies":  ["html", " css", "js", "bootstrap" , "jeQuery"],
+          "siteUrl": "https://zednah.com/",
+        "client":{
+          "name":"mohamed ahemd",
+          "urimage":""
+        }
+        }
+       
+      },
+      {
+        "id": "04",
+        "category": "Web Design",
+        "bage":{
+          "title": "Website of the Administrative Center for Financial Training",
+          "description":
+           "The Administrative Center for Financial Training website is a complete educational platform that allows students to open an account via Facebook or Google. View all courses with a filter for all courses according to specialization.",
+          "technologies": ["html", " css", "js", "bootstrap"],
+          "imgUrl": "../../../../images/img-pro-4.png",
+          "siteUrl": "#",
+        "client":{
+          "name":"mohamed ahemd",
+          "urimage":""
+        }
+        }
+       
+      
+      },
+      
+      {
+        "id": "05",
+        "category": "Web Design",
+        "bage":{
+          "title": "Ocoda Design Services",
+          "description":"Ocoda Design Services was established in Saudi Arabia by ambitious, creative, and experienced cadres in the field of creative design, to become one of the largest official and accredited companies specialized in the fields of design, brand building and advertising solutions in Saudi Arabia and the Middle East",
+        "technologies": ["html" , "css" , "js" , "react"],
+        "imgUrl": "../../../images/Screenshot (147).png",
+        "siteUrl": "https://ocoda.com/en",
+        "client":{
+          "name":"mohamed ahemd",
+          "urimage":""
+        }
+        }
+       
+      },
+      {
+        "id": "06",
+        "category": "Mobile App",
+        "bage":{
+          "imgUrl": "../../../images/ui-2.png",
+        "title": "Ghali Alathman app",
+        "description":
+          "ui && ux Ghali Alathman app",
+        "technologies": ["html", " css", "js", "bootstrap" , "react"],
+        "siteUrl": "https://warm-platypus-62d546.netlify.app/",
+            "client":{
+              "name":"mohamed ahemd",
+              "urimage":"image"
+            }
+          }
+       
+      },
+      {
+        "id": "07",
+        "category": "Web Design",
+        "bage":{
+          "title": "Koura world website",
+          "description":
+         " “The World of Koura website is a website that specializes in sports news and follows the results of matches and all leagues and the ability to follow the matches live.”",
+        "technologies": ["html" , "css" , "js" , "react"],
+        "imgUrl": "../../../images/img-pro-1.png",
+        "siteUrl": "#",
+        "client":{
+          "name":"mohamed ahemd",
+          "urimage":""
+        }
+        }
+       
+      },
+      {
+        "id": "08",
+        "imgUrl": "company1",
+        "category": "Web Design",
+        "bage":{
+          "title": "Website for Connect Power",
+          "description":"“Engineering consulting website for the Emirati company Connet Power. The website talks about the company and its work, means of communication, the latest projects, a dedicated page for each project, and communication via email as well.”",
+          "technologies": ["html", " css", "js", "bootstrap"],
+          "siteUrl": "#",
+        "imgUrl": "../../../../images/img-pro-3.png",
+        "client":{
+          "name":"mohamed ahemd",
+          "urimage":""
+        }
+       
+        }
+      
+      },
+    
+
+     
+    
+      
+    
+      {
+        "id": "09",
+        "category": "Ux Desigin",
+        "bage":{
+          "imgUrl": "../../../images/ui-4.png",
+          "title": "Alconcierge Website",
+          "description":
+            "ui && ux Alconcierge Website",
+          "technologies": ["html", " css", "js", "bootstrap" , "react"],
+          "siteUrl": "https://astrophile.onrender.com/",
+            "client":{
+              "name":"mohamed ahemd",
+              "urimage":"image"
+            }
+          }
+       
+      },
+      
+      {
+        "id": "10",
+        "category": "Ux Desigin",
+        "bage":{
+          "imgUrl": "../../../images/ui-6.png",
+          "title": "Alconcierge-Website",
+          "description":
+            "ui && ux Alconcierge Website",
+          "technologies": ["html", " css", "js", "bootstrap" , "react"],
+          "siteUrl": "https://astrophile.onrender.com/",
+            "client":{
+              "name":"mohamed ahemd",
+              "urimage":"image"
+            }
+          }
+       
+      },
+       {
+        "id": "11",
+        "category": "Mobile App",
+        "bage":{
+          "imgUrl": "../../../images/ui-8.png",
+          "title": "Com&herb",
+          "description":
+          "Com&herb brings you an extensive catalog of products, carefully curated to cater to your diverse needs. Whether you're looking for fashion apparel, electronics, home decor, or health and wellness products, our app offers an extensive selection from top brands and trusted sellers. With Com&herb, you can explore a world of possibilities at your fingertips.",
+          "technologies":  ["html", " css", "js", "bootstrap" , "jeQuery"],
+          "siteUrl": "#",
+        "client":{
+          "name":"mohamed ahemd",
+          "urimage":""
+        }
+        }
+       
+      },{
+        "id": "12",
+        "category": "Mobile App",
+        "bage":{
+      "imgUrl": "../../../images/ui-9.png",
+        "title": "Fatora app ",
+        "description":
+        "Welcome to Fatora, the ultimate app designed to streamline payment processes for businesses. We are excited to present a powerful solution that simplifies invoicing, billing, and payment collection, empowering businesses to focus on what they do best. With Fatora, managing your financial transactions has never been easier.",
+        "technologies": ["html", " css", "js", "bootstrap" , "react"],
+        "siteUrl": "#",
+        "client":{
+          "name":"mohamed ahemd",
+          "urimage":""
+        }
+        }
+       
+      },{
+        "id": "13", 
+        "category": "Mobile App",
+        "bage":{
+          "title": "Vacation app ",
+          "description":
+          "Welcome to Vacation, the all-in-one app designed to enhance your travel experiences and simplify trip organization. We are thrilled to present a comprehensive solution that empowers travelers to plan, book, and coordinate every aspect of their journeys. With Vacation, your dream vacation is just a few taps away.",
+        "technologies": ["html", " css", "js"],
+        "imgUrl": "../../../images/ui-10.png",
+        "siteUrl": "#",
+        "client":{
+          "name":"mohamed ahemd",
+          "urimage":""
+        }
+        }
+        
+      },
+      {
+        "id": "14", 
+        "category": "Ux Desigin",
+        "bage":{
+          "title": "ASSOCIATION FOR THE MARKETING OF FISH RESOURCES ",
+          "description":
+          "ASSOCIATION is a national advice that aims to contribute to the development of the fisheries sector and the digitalization of markets, increasing their transparency and enhancing sustainability",        "technologies": ["html", " css", "js"],
+        "imgUrl": "../../../images/ui-13.png",
+        "siteUrl": "#",
+        "client":{
+          "name":"mohamed ahemd",
+          "urimage":""
+        }
+        }
+        
+      },
+      {
+        "id": "15", 
+        "category": "logo Desigin",
+        "bage":{
+          "title": "ASSOCIATION FOR THE MARKETING OF FISH RESOURCES ",
+          "description":
+          "ASSOCIATION is a national advice that aims to contribute to the development of the fisheries sector and the digitalization of markets, increasing their transparency and enhancing sustainability",        "technologies": ["html", " css", "js"],
+        "imgUrl": "../../../images//logoserv-1.jpeg",
+        "siteUrl": "#",
+        "client":{
+          "name":"mohamed ahemd",
+          "urimage":""
+        }
+        }
+        
+      },
+      {
+        "id": "16", 
+        "category": "logo Desigin",
+        "bage":{
+          "title": "ASSOCIATION FOR THE MARKETING OF FISH RESOURCES ",
+          "description":
+          "ASSOCIATION is a national advice that aims to contribute to the development of the fisheries sector and the digitalization of markets, increasing their transparency and enhancing sustainability",        "technologies": ["html", " css", "js"],
+        "imgUrl": "../../../images/logoserv-2.jpeg",
+        "siteUrl": "#",
+        "client":{
+          "name":"mohamed ahemd",
+          "urimage":""
+        }
+        }
+        
+      },
+      {
+        "id": "17", 
+        "category": "logo Desigin",
+        "bage":{
+          "title": "ASSOCIATION FOR THE MARKETING OF FISH RESOURCES ",
+          "description":
+          "ASSOCIATION is a national advice that aims to contribute to the development of the fisheries sector and the digitalization of markets, increasing their transparency and enhancing sustainability",        "technologies": ["html", " css", "js"],
+        "imgUrl": "../../../images/WhatsApp Image 2023-09-04 at 7.29.58 AM.jpeg",
+        "siteUrl": "#",
+        "client":{
+          "name":"mohamed ahemd",
+          "urimage":""
+        }
+        }
+        
+      }
+      
+    ],
+    "show more":"show more",
+    "provile_text" :"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
+    "provile_header" :"codezen team",
+    "provile_header_text" :"a team of exparts in everything you need",
+    "team_staff" :[
+      {
+        "id" : "01",
+        "name":"mohamed kamal",
+        "jop_type" : "web developer ( team leader )",
+        "subtitle":"Developed web frontends and maintains and improves websites and interfaces to suit different devices",
+        "description" :" Mohame Kamal A Web Front-End Developer is responsible for using their knowledge of programming languages such as HTML, CSS, and JavaScript to create user-friendly web pages and interfaces. They develop the visual elements and clickable buttons that make up the user-side applications and sites that people interact with on the web. They work closely with clients to determine their needs and ensure that the websites and web applications they create are optimized for desktop and mobile devices. The Web Front-End Developer is also responsible for maintaining and improving websites and interfaces to ensure that they continue to meet the evolving needs of users.",
+        "image":"../../../images/photo1685202021.jpg",
+        "technologies":["html5" , "css3" , "javascript" , "react " , "react_query" , "jeQuery" , "Tailwind css" , "bootstrap" , "fairebase"],
+        "project_complate" :"20",
+        "experince" :"3 years"
+        
+      },
+      {
+        "id" : "02",
+        "name":"yousef rawag",
+        "subtitle" :"Developed web frontends and maintains and improves websites and interfaces to suit different devices",
+        "jop_type" : "web developer ( team leader )",
+        "description" :"Youse Rawag A Web Front-End Developer is responsible for using their knowledge of programming languages such as HTML, CSS, and JavaScript to create user-friendly web pages and interfaces. They develop the visual elements and clickable buttons that make up the user-side applications and sites that people interact with on the web. They work closely with clients to determine their needs and ensure that the websites and web applications they create are optimized for desktop and mobile devices. The Web Front-End Developer is also responsible for maintaining and improving websites and interfaces to ensure that they continue to meet the evolving needs of users.",
+        "image":"../../../images/reduce.png",
+        "technologies":["html5" , "css3" , "javascript" , "react " , "react_query" , "jeQuery" , "Tailwind css" , "bootstrap" , "fairebase"],
+        "project_complate" :"20",
+        "experince" :"3 years"
+        
+      },
+      {
+        "id" : "03",
+        "name":"wael kamal",
+        "jop_type" : "team Founder",
+        "subtitle":"Team Founder, SEO Team Leader and Brand Builder && is a professional SEO expert with vast experience",
+        "image":"../../../images/wael.jpg",
+        "description": "Wale Kamal (the founder) is a professional SEO expert with vast experience in search engine management and e-marketing. He has successfully developed and created many brands in Egypt and abroad. wale kamel has extensive skills and experience in search engine optimization, which qualifies him to help you climb to the first page's top results with a clear and organized plan. He can help with website management, competitor analysis, preparing integrated marketing plans, and developing necessary strategies for the success of your brand. Ahmed Nofal's skills also include great experience in many programming languages, which enables him to perform his mission with distinction and success.",
+        "technologies":["php" , "Node.js" , "sql" , "dtabase mangment ", "c++" , "c#" , "laravel " , "expresses.js"],
+        "project_complate" :"15",
+        "experince" :"2 years"
+        
+      },
+      {
+        "id" : "04",
+        "name":"yousef essam",
+        "jop_type" : "Graphic designer",
+        "subtitle" :"Graphic designer specializing in social media, print and visual identity designs && publications for the graphic",
+        "image":"../../../images/tem-1.jpeg",
+        "description" :"yousef essam have experince to convert any design to website and  work in big projects with react framework experince with work in big projects with and comportable with working api and bakend",
+        "technologies":["fagma" , "pohatosop" , "logo design" , "socail medai desiagn " , "edit images "],
+        "project_complate" :"15",
+        "experince" :"2 years"
+        
+      },
+      {
+        "id" : "05",
+        "name":"Omar Ahmed",
+        "jop_type" : "back-end developer",
+        "subtitle":"Senior software engineer specialized in creating and programming website && and specialized in managing vps ",
+        "image":"../../../images/lood-user.avif",
+        "description" : "A Web Back-End Developer is responsible for using their knowledge of programming languages such as HTML, CSS, and JavaScript to create user-friendly web pages and interfaces. They develop the visual elements and clickable buttons that make up the user-side applications and sites that people interact with on the web. They work closely with clients to determine their needs and ensure that the websites and web applications they create are optimized for desktop and mobile devices. The Web Front-End Developer is also responsible for maintaining and improving websites and interfaces to ensure that they continue to meet the evolving needs of users.",
+        "technologies":["php" , "Node.js" , "sql" , "dtabase mangment " , "laravel " , "expresses.js"],
+        "project_complate" :"15",
+        "experince" :"2 years"
+        
+      },
+      {
+        "id" : "06",
+        "name":"Ahmed Reda",
+        "jop_type" : "mobile application",
+        "image":"../../../images/ahmed.jpg",
+        "subtitle":"A mobile application programmer designs and programs custom applications for mobile devices such as smartphones and tablets.",
+        "description" :"A mobile application programmer designs and programs custom applications for mobile devices such as smartphones and tablets.",
+        "technologies":["facebook ads" , "instgram ads" , "sanpshite ads" , "google ads" ],
+        "project_complate" :"15",
+        "experince" :"2 years"
+        
+      },
+      {
+        "id" : "07",
+        "name":"Raana Elnbawy",
+        "jop_type" : "UI & UX",
+        "image":"../../../images/rana.jpg",
+        "subtitle":"UI/UX Designer is responsible for designing and developing the user interface and user experience for web applications, websites, and mobile applications. The UI/UX designer aims to create a comfortable, smooth, and attractive user experience for users.",
+        "description" :"UI/UX Designer is responsible for designing and developing the user interface and user experience for web applications, websites, and mobile applications. The UI/UX designer aims to create a comfortable, smooth, and attractive user experience for users.",
+        "technologies":["facebook ads" , "instgram ads" , "sanpshite ads" , "google ads" ],
+        "project_complate" :"15",
+        "experince" :"2 years"
+        
+      },
+      {
+        "id" : "08",
+        "name":"Dina Salah",
+        "jop_type" : "marketing",
+        "image":"../../../images/lood-user.avif",
+        "subtitle":"The Marketing Director is the one who works to promote and market the products or services provided by the company in a professional manner",
+        "description" :"The Marketing Director is the one who works to promote and market the products or services provided by the company in a professional manner",
+        "technologies":["facebook ads" , "instgram ads" , "sanpshite ads" , "google ads" ],
+        "project_complate" :"15",
+        "experince" :"2 years"
+        
+      }
+    ],
+    "btn_ask_price": "Ask for a price",
+    "about-me" :"About Me",
+    "about_breadCrumb": "about",
+    "about": {
+      "about_title": "about us",
+      "about_title_name": "codezen",
+      "about_text_1": "CodeZen is a comprehensive platform that integrates web development, mobile app design, UI/UX, marketing, graphic design, and logo creation. It offers a user-friendly environment that empowers individuals and businesses to transform creative ideas into stunning realities. Discover the magic of CodeZen and unlock your full creative potential today.",
+      "about_text_2": "We combine experience and development; To reach a result that exceeds customer expectations, and there are a number of advantages that make us the perfect choice for customers looking for excellence",
+      "about_our_work_title_1": "How does our work",
+      "about_our_work_title_2": "We combine experience and development to reach a result that exceeds customer expectations",
+      "about_our_work": [
+        {
+          "id" : "01",
+          "imgUrl": "../../../images/about-pro-1.png",
+          "title": "Speed of work with quality",
+          "dec": "Speed of work with quality is a concept that refers to our company's ability to carry out tasks and provide products or services quickly and efficiently without compromising on quality. This requires a balanced mix of efficiency and effectiveness in managing time and resources, with a focus on meeting customer needs and meeting their expectations."
+        },
+        {
+          "id" : "02",
+          "imgUrl": "../../../images/about-pro-2.png",
+          "title": "A team of experts",
+          "dec": "Our team of experts refers to a group of skilled and qualified professionals who have specialized knowledge and experience in specific areas relevant to our business. The team consists of individuals with outstanding individual skills and long experience, who cooperate together to achieve the company's goals and provide high-quality services or products."
+        },
+        {
+          "id" : "03",
+          "imgUrl": "../../../images/about-pro-3.png",
+          "title": "Participation of our clients at all stages",
+          "dec": "Participation of our clients at all stages means that we believe in the importance of our cooperation with our clients and their participation in the business process from beginning to end. We involve customers at all stages of the business, from understanding their needs and requirements to implementing solutions and delivering products or services."
+        },
+        {
+          "id" : "04",
+          "imgUrl": "../../../images/about-pro-4.png",
+          "title": "work development",
+          "dec": "Business development in our company means continuous work to improve and develop various aspects of our business and operations. We are committed to seeking opportunities for continuous improvement, developing our capabilities, and developing our products and services."
+        },
+        {
+          "id" : "05",
+          "imgUrl": "../../../images/about-pro-5.png",
+          "title": "Best price",
+          "dec": "Our company's best price indicates our commitment to providing competitive and favorable prices to our customers. We strive to achieve the perfect balance between the value we provide and the cost to customers. We work to study the market and evaluate costs and competition to ensure we determine the best prices that reflect the quality and value we provide. We care about providing competitive offers and flexible price options that suit customers' requirements and budgets."
+        },
+        {
+          "id" : "06",
+          "imgUrl": "../../../images/about-pro-6.png",
+          "title": "After sales service",
+          "dec": "After-sales service in our company refers to the technical support and services we provide to our customers after purchasing our products for a month. We pay great attention to the comfort and satisfaction of our customers after the purchase and strive to provide outstanding support and solutions to any problem or inquiry that may arise after the sale."
+        }
+      ]
+    
+    },
+
+    "whatsApp_message": {
+      
+      "title_ms": "We welcome your contact with us, you will be answered as soon as possible",
+      "text_ms": "team Codzen is at your service",
+      "place_holder_ms": "Write your message here..."
+    },
+    
+    "ms_btn": "Welcome contact us now",
+    "contact_breadCrumb": "contact",
+    "contact": {
+      "contact_title": "* Send us the application form and we will respond to you as soon as possible",
+      "la_name": "name",
+      "la_phone": "phone",
+      "la_email": "email",
+      "la_massage": "How can we serve you ?",
+      "submit": "submit"
+    },
+    "contact-us":"contact"
+  
+}

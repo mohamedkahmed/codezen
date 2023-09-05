@@ -1,0 +1,203 @@
+@import "../../variables/variables.scss";
+
+.single-product-wrapper {
+  background-color: $color_5;
+  padding: $padding_80;
+  .fillter-card-product {
+    background-color: white;
+    box-shadow: $shadowBox;
+    padding: 10px;
+    border-radius: 6px;
+    width: 100%;
+    display: block;
+    text-transform: capitalize;
+    .title-card {
+      padding: 5px 0 15px;
+      h4 {
+        text-transform: capitalize;
+        font-size: 14px;
+        font-weight: 600;
+      }
+    }
+    .card-links-upper {
+      display: flex;
+      flex-direction: column;
+      a {
+        color: #888;
+        font-size: 13px;
+        margin: 5px 0;
+      }
+    }
+  }
+  .single-product-card {
+    border-bottom: 1px solid #ddd;
+    .card-title {
+      text-transform: capitalize;
+      
+      h4 {
+        font-size: 20px;
+        margin: 0 0 10px 0;
+      }
+    }
+    .card-image {
+      width: 100%;
+      height: 500px;
+      border-radius:6px;   
+      box-shadow: $shadowBox;
+      background-color: white;
+      padding: 6px;
+      img {
+        width: 100%;
+        height: 100%;
+        border-radius: 6px;
+       
+      }
+    }
+    .card-description {
+      width: 100%;
+      background-color: white;
+      box-shadow: $shadowBox;
+      padding:15px;
+      margin-top: 40px;
+      border-radius: 8px;
+      p {
+        margin: 15px 0 15px;
+        color: #777;
+        font-size: 13px;
+        line-height: 1.8;
+        width: 80%;
+      }
+      span {
+        color: #777;
+        font-size: 11px;
+      }
+    }
+  }
+  .back-to-product {
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    border-bottom: 1px solid #ddd;
+    a {
+      text-transform: capitalize;
+      font-size: 13px;
+      color: #888;
+      margin-left: 5px;
+    }
+  }
+  .single-product-comment {
+    padding: 20px 15px 20px;
+    margin-top: 15px;
+    border-radius: 6px;
+    box-shadow: $shadowBox;
+    background-color: white;
+    h4 {
+      font-size: 18px;
+      margin-bottom: 15px;
+      text-transform: capitalize;
+      color: #777;
+    }
+    .single-form {
+      .form-group {
+        display: inline-block;
+        width: 30%;
+        margin-bottom: 1rem;
+        .form-control {
+          width: 100%;
+          border: none;
+          background-color: #eee;
+          font-size: 13px;
+          height: calc(1.7em + 0.75rem + 2px);
+          &:focus {
+            box-shadow: none;
+          }
+          &::placeholder {
+            text-transform: capitalize;
+          }
+        }
+        textarea {
+          width: 100%;
+          border: none;
+          background-color: #eee;
+          font-size: 13px;
+          height: 150px;
+          padding: 10px;
+          &:focus {
+            outline: none;
+          }
+          &::placeholder {
+            text-transform: capitalize;
+          }
+        }
+      }
+      .single-product-buttons {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        .btn {
+          background-color: $color-2;
+          color: white;
+          cursor: pointer;
+          width: 120px;
+          height: 35px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          border-radius: 15px;
+          font-size: 12px;
+          transition: all 0.2s ease-in-out;
+          text-transform: capitalize;
+          border: transparent;
+          font-weight: 500;
+          opacity: 0.9;
+          &:hover {
+            background-color: $color-1;
+            color: #131921;
+            opacity: 1;
+          }
+        }
+      }
+    }
+  }
+  .realt_servies{
+    padding-top: 10px;
+    margin-bottom: 15px;
+    .feat-ser {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      margin: 10px 0;
+    }
+    .h6{
+        color: $color-2;
+        font-size: 18px;
+        margin: 0;
+      }
+      span {
+        background-color:$color-1;
+        display: block;
+        height: 8px;
+        width: 8px;
+      }
+}
+}
+@media screen and (max-width: 800px) {
+  .fillter-card-product{
+    display: none !important;
+  }
+  .card-image{
+    height: 340px !important;
+    img{
+      object-fit: cover;
+    }
+  }
+   .card-description{
+    p{
+      width: 100% !important;
+    }
+   }
+}
+
+

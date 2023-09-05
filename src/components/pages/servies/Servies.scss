@@ -1,0 +1,119 @@
+@import "../../variables/variables.scss";
+
+.servies-single {
+    padding: $padding_80;
+    .servies-title {
+        margin-bottom: 50px;
+        h4 {
+            font-size: 20px;
+            text-transform: capitalize;
+        }
+    }
+    .servies-box-content {
+        position: relative;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        flex-direction: column;
+        margin-bottom: 25px;
+        transition: $tran_3;
+        padding: 40px 30px;
+        border-radius: $border_radius;
+        box-shadow: 8px 8px 30px 0 rgba(59, 52, 44, 0.15);
+        overflow: hidden;
+        .icon-box {
+            img {
+                width: 100px;
+                border-radius: $border_radius;
+            }
+        }
+        .title-box {
+            margin: 15px 0;
+            text-transform: capitalize;
+        }
+        .text-box {
+            p {
+                font-size: $font_14;
+                line-height: 1.7;
+            }
+        }
+        .svg-img-test {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 1500px;
+            z-index: -1;
+            svg {
+                width: 100%;
+                transform: rotate(-180deg);
+            }
+        }
+    }
+    .contact-button {
+        padding: 20px 0 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        a {
+            box-shadow: 8px 8px 18px 0px rgba(42, 67, 113, 0.3);
+            transition: $tran_3;
+            text-transform: capitalize;
+    font-size: 14px;
+    padding: 5px 15px;
+    line-height: 1;
+    margin: 0;
+    text-decoration: none;
+    white-space: nowrap;
+    vertical-align: middle;
+    font-weight: 500;
+    letter-spacing: 0;
+    background: #fe4c1c;
+    cursor: pointer;
+    border: 1px solid transparent;
+    outline: 0;
+    color: #fff;
+    overflow: hidden;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    .icon-to-go {
+        background: #fff;
+        color: $color_1;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        text-align: center;
+        display: inline-block;
+        margin-right: 14px;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -webkit-transition: $tran_3;
+        -moz-transition: $tran_3;
+        -o-transition: $tran_3;
+        -ms-transition: $tran_3;
+        transition: $tran_3;
+        color: $color_2
+    }
+    &:hover {
+        background: $color_2;
+        span {
+            transform: translateX(-10px);
+        }
+    }
+        }
+    }
+}
+
+
+[dir="rtl"] {
+    .servies-single {
+        .contact-button {
+            a {
+                .icon-to-go {
+                    margin-left: 14px;
+                    margin-right: 0;
+                }
+            }
+        }
+     }
+ }

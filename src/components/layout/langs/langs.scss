@@ -1,0 +1,78 @@
+@import '../../variables/variables.scss';
+@import '../../variables/mixins.scss';
+
+.dropdown {
+    outline: none;
+    border: none;
+   
+
+    ul {
+        li {
+            font-size: $font_14;
+        }
+    }
+    .btn {
+        border: none;
+        outline: none;
+        color: #ffffff;
+        font-size: 20px;
+        i {
+            padding: 0 6px;
+        }
+    }
+    .dropdown-item {
+        
+        color: white;
+        &:hover {
+            color: #fff ;
+            background-color: $color-1;
+        }
+    }
+
+}
+
+.dropdown-menu.show {
+    display: block;
+    background-color: #232f3e;
+    color: #999;
+    margin-top: 18px;
+    transform: translateX(-60px);
+    .dropdown-item-text {
+        color: white;
+    }
+}
+
+.dropdown-toggle::after {
+    margin:0;
+    display: none;
+
+}
+
+@media (max-width: 575.98px) {
+.language-in-responsive .dropdown {
+    display: block;
+}
+.dropdown {
+    display: none;
+}
+ }
+
+ // Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .language-in-responsive .dropdown {
+        display: block;
+    }
+    .dropdown {
+        display: none;
+    }
+ }
+
+ // Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .language-in-responsive .dropdown {
+        display: block;
+    }
+    .dropdown {
+        display: none;
+    }
+}

@@ -1,0 +1,120 @@
+@import "../../variables/variables.scss";
+
+.contact{
+  padding: 50px ;
+  overflow: hidden;
+  background-color: $color_5;
+  .content{
+    width: 100%;
+    p {
+      color: $color_4;
+      margin-bottom: 20px;
+      width: 80%;
+    }
+    .input_section{
+      width: 100%;
+    
+      .lable{
+        display: block;
+        margin-bottom: 5px;
+        text-transform: capitalize;
+        color: $color_3;
+        font-weight: bold;
+      }
+      input{
+        width: 80%;
+        display: block;
+        padding: 6px;
+        border: 1px solid #d8d8d8;
+        outline: none;
+        margin-bottom: 20px;
+        border-radius: $border_radius;
+        font-size: 14px;
+        text-transform: capitalize;
+      }
+      .massage{
+        padding: 6px;
+        border: 1px solid #d8d8d8;
+        outline: none;
+        border-radius: $border_radius;
+        font-size: 14px;
+        text-transform: capitalize;
+        margin-bottom: 22px;
+       min-width: 80%;
+       width: 80%;
+        min-height: 130px;
+       max-height:130px;
+      }
+    }
+    button {
+      text-transform: capitalize;
+      color: white;
+      font-size: 16px;
+      background-color: $color_1;
+      display: inline-block;
+      width:200px;
+      padding: 8px 6px;
+      text-align: center;
+      border-radius: 6px;
+      color: white;
+      transition: $tran_3;
+      font-size: 16px;
+      border: none;
+      font-weight: bold;
+      &:hover {
+        background-color: $color_2;
+      }
+    }
+  }
+  .maps{
+    width: 100%;
+   height: 100%;
+    iframe{
+      width: 100%;
+      height: 100%;
+    }
+  }
+}
+
+
+@media (max-width: 575.98px) {
+  .input_section{
+    width: 100% !important;
+   
+    .lable{
+      margin-bottom: 5px;
+      text-transform: capitalize;
+      color: $color_3;
+      font-weight: bold;
+      display: block !important;
+    }
+    input{
+      display: block !important;
+      width: 100% !important;
+      padding: 6px  !important;
+      border: 1px solid #d8d8d8;
+      outline: none;
+      margin-bottom: 20px;
+      border-radius: $border_radius;
+      font-size: 14px;
+      text-transform: capitalize;
+      width: 100%;
+    }
+    .massage{
+      padding: 6px;
+      border: 1px solid #d8d8d8;
+      outline: none;
+      border-radius: $border_radius;
+      font-size: 14px;
+      text-transform: capitalize;
+      margin-bottom: 22px;
+      max-height: 400px;
+      width: 100% !important;
+    }
+  }
+  .contact {
+    button{
+        width: 100%!important;     
+    }
+  } 
+}

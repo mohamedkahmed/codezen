@@ -1,0 +1,164 @@
+   @import '../../variables/variables.scss';
+   @import '../../variables/mixins.scss';
+
+
+#title {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    color: #FFF;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .text-title {
+        color: white;
+        width: 100%;
+        text-align: start;
+        margin-top: 4rem;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        p {
+            font-size: 38px;
+            text-transform: capitalize;
+            line-height: 1.8;
+            font-weight: bold;
+            span {
+                color: $color-1 !important
+            }
+        }
+        a {
+            @include creatBtn;
+            margin: 20px 10px;
+            background-color: $color-2;
+            padding: .6rem 0;
+            &:hover {
+                background-color: $color-1;
+                color: black;
+                border: none;
+            }
+          }
+        }
+        .ava-img  {
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            height: 100%;
+          img {
+              width: 600px;
+              object-fit: cover;
+              margin-top: 100px;
+          }
+      
+        }
+}
+
+
+@media (max-width: 575.98px) {
+
+
+  #title {
+            .text-title {
+                text-align: start !important;
+            p {
+                font-size: 30px;
+                text-transform: capitalize;
+                  line-height: 1.8;
+                  width: 100%!important;
+
+            } }
+
+            #title .text-title a {
+                @include creatBtn;
+                margin: 20px 10px;
+                background-color: $color-2;
+                &:hover {
+                    background-color: $color-1;
+                    color: white;
+                }
+            } 
+            .ava-img{
+                display: none;
+            } 
+            .text-title {
+                width: 100%;
+                text-align: start;
+                margin-top: 4rem;
+            
+            } 
+}   
+}
+
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    #title {
+        .text-title {
+            text-align: center !important;
+        p {
+            font-size: 48px;
+            text-transform: capitalize;
+              line-height: 1.8;
+              width: 100%!important;
+
+        } }
+
+        #title .text-title a {
+            @include creatBtn;
+            margin: 20px 10px;
+            background-color: $color-2;
+            &:hover {
+                background-color: $color-1;
+                color: white;
+            }
+        } 
+        .ava-img{
+            display: none;
+        } 
+        .text-title {
+            width: 100%;
+            text-align: start;
+            margin-top: 6rem;
+        
+        } 
+}   
+ }
+
+ // Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    #title {
+        .text-title {
+            text-align: center !important;
+        p {
+            font-size: 52px;
+            text-transform: capitalize;
+              line-height: 1.8;
+              width: 100%!important;
+
+        } }
+
+        #title .text-title a {
+            @include creatBtn;
+            margin: 20px 10px;
+            background-color: $color-2;
+            &:hover {
+                background-color: $color-1;
+                color: white;
+            }
+        } 
+        .ava-img{
+            display: none;
+        } 
+        .text-title {
+            width: 100%;
+            text-align: start;
+            margin-top: 6rem;
+        
+        } 
+}  
+ }

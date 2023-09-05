@@ -1,0 +1,253 @@
+@import "../../variables/variables.scss";
+
+.our-work-wrapper {
+    padding: $padding_80;
+    background-color: $color_5;
+    .project_lenght{
+      font-size: 14px;
+      color:$color_1 ;
+      margin-right: 4px;
+    }
+    .filter-sort-grid {
+        display: flex;
+        align-items: center;
+        background-color: white;
+        box-shadow: $shadowBox;
+        padding: 12px 10px;
+        border-radius: 6px;
+        justify-content: space-between;
+    
+        .default-part {
+          display: flex;
+          align-items: center;
+          gap: 5px;
+          .btn-more {
+            font-size: 12px;
+            border: none;
+            color: white;
+            background-color: $color_2;
+            text-transform: capitalize;
+            padding: 5px 15px;
+            border-radius: $border_radius;
+            transition: $tran_3;
+          
+          }
+          .active {
+            background-color: $color_1;
+            color: $color_2;
+        }
+        }
+        .sort-img-ch {
+          display: flex;
+          align-items: center;
+          gap: 10px;
+          p {
+            margin: 0;
+            font-size: 12px;
+            color: #777;
+            text-transform: capitalize;
+          }
+          .sort-img-part {
+            display: flex;
+            gap: 5px;
+            img {
+              width: 30px;
+              height: 30px;
+              cursor: pointer;
+              background-color: #eee;
+              padding: 10px 5px;
+              border-radius: 6px;
+            }
+            .active {
+              background-color: $color_1;
+              padding: 10px;
+            }
+          }
+        }
+      }
+
+      .project-list {
+        padding: 50px 0;
+    
+        //// edit col
+    
+        .col-3-grider {
+          margin-bottom: 30px;
+        }
+        .col-4-grider {
+          margin-bottom: 30px;
+        }
+        .col-6-grider {
+          margin-bottom: 30px;
+          .product-card {
+            .product-img {
+              width: 70%;
+              left: calc(100% - 85%);
+            }
+          }
+        }
+        .col-12-grider {
+          margin-bottom: 30px;
+          .product-card {
+            display: flex;
+            .lover-icon {
+              right: 2%;
+            }
+            .product-img {
+              width: 30%;
+            }
+            .product-info {
+              width: 70%;
+              .product-title {
+                margin: 5px 0 0;
+              }
+              .pro-description {
+                font-size: 12px;
+                color: #777;
+                margin: 0;
+                text-transform: capitalize;
+                line-height: 1.6;
+                max-width: 90%;
+              }
+            }
+            .action-bar {
+              right: -4%;
+              top: 15%;
+            }
+            &:hover {
+              .action-bar {
+                right: 2%;
+                
+              }
+            }
+          }
+        }
+      }
+}
+
+@media screen and (max-width: 768px) {
+
+  .filter-sort-grid{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    box-shadow: $shadowBox;
+    padding: 9px  10px !important;
+    border-radius: 6px;
+   background-color: white;
+   .default-part{
+      display: flex;
+        align-items: center;
+        gap: 5px;
+    }
+    .btn-more {
+      font-size: 10px !important;
+      border: none;
+      color: white;
+      background-color: $color_2;
+      text-transform: capitalize;
+      padding: 3px 9px !important;
+      border-radius: $border_radius;
+      transition: $tran_3;
+    
+    }
+    .active {
+      background-color: $color_1;
+      color: $color_2;
+  }
+  .sort-img-ch {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    p {
+      margin: 0;
+      font-size: 9px !important;
+      color: #777;
+      text-transform: capitalize;
+    }
+    .sort-img-part {
+      display: flex;
+      gap: 5px;
+      img {
+        width: 25px !important;
+        height: 25px !important;
+        cursor: pointer;
+        background-color: #eee;
+        padding: 8px 4px !important;
+        border-radius: 4px !important;
+      }
+      .active {
+        background-color: $color_1;
+        padding: 10px;
+      }
+    }
+  }
+  } 
+  .project_lenght{
+    font-size: 10px !important;
+    color:$color_1 ;
+    margin-right: 4px;
+  }
+  }
+  @media screen and (min-width: 200px) and (max-width: 500px) {
+    .filter-sort-grid{
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      background-color: white;
+      box-shadow: $shadowBox;
+      padding: 12px  10px !important;
+      border-radius: 6px;
+     background-color: white;
+      .default-part{
+        display: flex;
+          align-items: center;
+          gap: 5px;
+      }
+      .btn-more {
+        font-size: 10px !important;
+        border: none;
+        color: white;
+        background-color: $color_2;
+        text-transform: capitalize;
+        padding: 3px 9px !important;
+        border-radius: $border_radius;
+        transition: $tran_3;
+      
+      }
+      .active {
+        background-color: $color_1;
+        color: $color_2;
+    }
+    .sort-img-ch {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      p {
+        margin: 0;
+        font-size: 12px;
+        color: #777;
+        text-transform: capitalize;
+        display: none;
+      }
+      .sort-img-part {
+        display: flex;
+        gap: 5px;
+        img {
+          width: 25px !important;
+          height: 25px !important;
+          cursor: pointer;
+          background-color: #eee;
+          padding: 8px 4px !important;
+          border-radius: 4px !important;
+        }
+        .active {
+          background-color: $color_1;
+          padding: 10px;
+        }
+      }
+    }
+    
+  }
+  }

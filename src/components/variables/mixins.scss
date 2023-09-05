@@ -1,0 +1,28 @@
+@import "./variables.scss";
+
+@mixin creatBtn {
+        text-transform: capitalize;
+        color: white;
+        font-size: $font_14;
+        background-color: $color-1;
+        display: inline-block;
+        width: 130px;
+        padding: 6px;
+        text-align: center;
+        border-radius: $border_radius;
+        color: white;
+        transition: all .3s ease-in-out;
+        &:hover {
+            background-color: $color-2;
+            color: white;
+            border-bottom: 1px solid $color-1;
+        }
+}
+
+@mixin paraText {
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 2;
+    color: $color_3;
+}
