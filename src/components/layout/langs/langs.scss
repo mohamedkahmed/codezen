@@ -27,6 +27,9 @@
             color: #fff ;
             background-color: $color-1;
         }
+        &:disabled {
+            color: #999 !important;
+        }
     }
 
 }
@@ -34,7 +37,7 @@
 .dropdown-menu.show {
     display: block;
     background-color: #232f3e;
-    color: #999;
+    color: white;
     margin-top: 18px;
     transform: translateX(-60px);
     .dropdown-item-text {

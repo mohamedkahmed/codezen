@@ -1,6 +1,6 @@
 import Hero from '../hero/Hero';
 import './Header.scss';
-import ReactPlayer from 'react-player';
+import ReactPlayer from 'react-player/lazy'
 
 
 const Header = () => {

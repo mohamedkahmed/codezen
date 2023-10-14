@@ -15,7 +15,7 @@
       },
       {
           "id":3,
-          "text":"servies",
+          "text":"services",
           "href":"/servies"
       },
       {
@@ -29,7 +29,14 @@
           "href":"/contact"
       }
   ],
-  
+  "decripe_item":[
+    "Responsive design",
+    "Great user interface",
+    "Domaine Hosting",
+    "Technical support"
+
+  ],
+  "where_wantgo":"Where do you want to go ?",
   "servies_more":"Explore More",
   "order": "start project",
   "hero_title": "a software house that offers web and apps development services to help you achieve your",
@@ -39,7 +46,7 @@
   "servies_header" :"Our services",
   "servies_text" :"From actionable meeting notes to inspiring project plans, kickstart team participation with a flexible workspace",
   "servies_singel_title_text": "codezen platform is your best choice to achieve your goals",
-  "servies_breadCrumb": "our servies", 
+  "servies_breadCrumb": "our services", 
   "servies": [
       {
           "id":1,
@@ -193,7 +200,7 @@
         "imgUrl": "../../../images/ui-7.png",
         "title": "SafePay app",
         "description":
-          "Welcome to SafePay app, your comprehensive app designed to provide essential information and services for the Hajj pilgrimage. We are proud to present a revolutionary solution that offers detailed insights into the Hajj journey, essential resources about Islam, and a streamlined process for making your pilgrimage dreams a reality.",
+          "Welcome to SafePay, your one-stop app designed to provide essential information and services for your e-wallet. We are proud to offer a revolutionary solution that provides detailed insights into the ease of use of your e-wallet, essential resources around it, and a simplified process to make your dreams of transferring, receiving and paying money a reality.",
         "technologies": ["html", " css", "js", "bootstrap" , "react"],
         "siteUrl": "https://astrophile.onrender.com/",
           "client":{

@@ -19,6 +19,8 @@ const   SingleProduct = () => {
   const project = projects.find((p) => p.id === id);
   const navbalinks = t("navbarlinks", {returnObjects: true})
   const navagition = useNavigate()
+  const item_decribe = t("decripe_item" , {returnObjects:true})
+ 
   const [message_Fit , setMessage_Fit]  = useState(
     {
       name:"",
@@ -72,7 +74,7 @@ const   SingleProduct = () => {
             <div className="col-3">
               <div className="fillter-card-product">
                 <div className="title-card">
-                  <h4>Where do you want to go ?</h4>
+                  <h4>{t("where_wantgo")}</h4>
                 </div>
                 <div className="card-links-upper">
                 {
@@ -104,35 +106,28 @@ const   SingleProduct = () => {
                      
         
                        <div className="row">
-                           
+                      
+                                 {
+                                   item_decribe.map((item, i)=> {
+                                    return (
+                                                <div className="col-6" key={item} >
+                                                      <div className="feat-ser">
+                                                        
+                                                          <span></span>
+                                                          
+                                                              <h6 className='h6' >{item}</h6>
+                                                        
+                                                      
+                                                    
+                                                      </div>
+                                                            
+                                                </div>
+                                    )
+                                   })
+                                 }
                                    
-                              <div className="col-6" >
-                                <div className="feat-ser">
-                                <span></span> 
-                                <h6 className='h6'>Responsive design</h6>
-                                </div>
-                                     
-                              </div>
-                              <div className="col-6" >
-                                <div className="feat-ser">
-                                <span></span>
-                                <h6 className='h6'>Great user interface</h6>
-                                </div>
-                                    
-                            </div>
-                              <div className="col-6" >
-                                <div className="feat-ser">
-                                <span></span>
-                                <h6 className='h6'> Domaine Hosting</h6>
-                                </div>
-                                    
-                            </div>
-                            <div className="col-6" >
-                                    <div className='feat-ser'>
-                                    <span></span>
-                                    <h6 className='h6'>Technical support</h6>
-                                    </div>
-                            </div>
+                              
+                        
                            
                        </div>
                       </div>

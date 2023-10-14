@@ -53,8 +53,6 @@ const Services = () => {
             className="swiper-container"
             spaceBetween={50}
             slidesPerView={1}
-            onSlideChange={() => console.log('slide change')}
-            onSwiper={(swiper) => console.log(swiper)}
           >
             {services.map((service) => (
               <SwiperSlide key={service.id} style={{ width: "100%" }}>

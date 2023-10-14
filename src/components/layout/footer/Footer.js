@@ -102,19 +102,19 @@ const form_submit = async (e) =>{
                   </div>
                   <div className="social_icons">
                   <ul className="wrapper">
-                            <li className="icon facebook">
+                            <Link to={"https://www.facebook.com/profile.php?id=61551068038358&mibextid=LQQJ4d"} className="icon facebook">
                               <span className="tooltip">Facebook</span>
                               <span> <BsFacebook/> </span>
-                            </li>
+                            </Link>
 
-                            <li className="icon instagram">
+                            <Link to={"https://instagram.com/codezen92?igshid=MzRlODBiNWFlZA=="} className="icon instagram">
                               <span className="tooltip">Instagram</span>
                               <span> <BsInstagram/> </span>
-                            </li>
-                            <li className="icon github">
+                            </Link>
+                            <Link className="icon github">
                               <span className="tooltip">Github</span>
                               <span> <BsGithub/> </span>
-                            </li>
+                            </Link>
  
                 </ul>
                   </div>

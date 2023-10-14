@@ -23,7 +23,7 @@ const Whatsaapcontact = () => {
     e.preventDefault()
   
     const encodedMessage = encodeURIComponent(message);
-    const phoneNumber = '+201154792430'; // Replace with the desired phone number
+    const phoneNumber = '+201118459882'; // Replace with the desired phone number
     const whatsappLink = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${encodedMessage}`;
       window.open(whatsappLink, '_blank');
 
