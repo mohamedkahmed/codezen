@@ -1,15 +1,12 @@
-
 import { useLocation, NavLink, Link } from "react-router-dom";
 import { useTranslation } from 'react-i18next';
 import Langs from '../langs/langs';
 import "./Navbar.scss";
-import { useState } from 'react';
 import {AiOutlineMenu} from 'react-icons/ai'
 const Navbar = () => {
   const {t} = useTranslation();
 
   const navbalinks = t("navbarlinks", {returnObjects: true})
-     /*  "navbar navbar-expand-lg navbar-light " */
      const location = useLocation();
   return (
 <nav className={location.pathname === "/" ?  "navbar navbar-expand-lg" : "navbar navbar-expand-lg active"}>

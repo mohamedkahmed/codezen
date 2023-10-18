@@ -37,7 +37,7 @@
       "الدعم الفنى"
   
     ],
-    "where_wantgo":"اين تريد ان تذهب",
+    "where_wantgo":"اين تريد ان تذهب؟",
     "servies_more":"معرفه المزيد",
     "order": "أبدا مشروعك",
     "hero_title": "شركة برمجيات توفر لك تصميم مواقع وتصميم تطبيقات لتحقيق أهداف ",
@@ -80,7 +80,7 @@
         {
             "id":5,
             "iconUrl": "../../../images/sevices-single-5.png",
-            "header":"تصميم واجه المستخدم",
+            "header":"تصميم واجهة المستخدم",
             "explore" :["اختبار وتحسين تجربة المستخدم" ,  "التصميم الجرافيكي والصور" , "توجيه المستخدم وتنظيم المحتوى"],
             "text":"UI و UX جوانب مهمة في تصميم وتطوير المواقع والتطبيقات. يركز الـUI على الجانب الجذاب والبصري للتطبيق ، بينما يركز الـ UX على تجربة المستخدم العامة للتطبيق. يتم دمج الـ UI و UX معًا لتحقيق تجربة مستخدم ممتعة وسهلة الاستخدام ، ويجب على فريق التصميم والتطوير العمل معًا لضمان تحقيق ذلك."
         },
@@ -192,304 +192,635 @@
     "Projects": [
       {
         "id": "01",
-        "category": "Mobile App",
-        "bage":{
-          "imgUrl": "../../../images/ui-7.png",
-          "title": "تطبيق مؤسسه مطوفى",
-          "description":
-            "مرحبًا بك في تطبيق SafePay، تطبيقك الشامل المصمم لتوفير المعلومات والخدمات الأساسية للمحفظتك الإلكترونية. نحن فخورون بتقديم حل ثوري يقدم رؤى تفصيلية عن سهوله استخدام محفظتك الإلكترونية، والموارد الأساسية حولها ، وعملية مبسطة لجعل أحلامك بتحويل واستلام ودفع الفلوس حقيقة.",
-          "technologies": ["html", " css", "js", "bootstrap" , "react"],
-          "siteUrl": "https://astrophile.onrender.com/",
-            "client":{
-              "name":"mohamed ahemd",
-              "urimage":"image"
-            }
+        "category": "logo Desigin",
+        "bage": {
+          "title": "تصميم شعار هوية العلامة التجارية الطبية",
+          "description": "تصميم شعار هوية العلامة التجارية الطبية للخدمات الطبية",
+          "technologies": ["html", " css", "js"],
+          "imgUrl": "../../../images/pro-logo-1.jpg",
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
           }
-       
+        }
       },
       {
         "id": "02",
-        "category": "Web Design",
-        "bage":{
-          "title": "شركه ترينداد",
-          "description":
-           "تريندد هى شريكك فى قياده النجاح من خلال حلول الاعمال الشامله تم انشاءه برؤيه لتمكين الشركات عبر الصناعات ونحن متخصصون فى متنوعه من الخدمات التى تلبى احتياجك يشمل نهجنا الشامل  حمايه الاعمال وتخطيط الاعمال ",
-          "technologies": ["html", " css", "js", "bootstrap"],
-          "imgUrl": "../../../images/trendad.jpeg",
+        "category": "Mobile App",
+        "bage": {
+          "imgUrl": "../../../images/ui-7.png",
+          "title": "تطبيق SafePay ",
+          "description": "مرحبًا بك في تطبيق SafePay، تطبيقك الشامل المصمم لتوفير المعلومات والخدمات الأساسية للمحفظتك الإلكترونية. نحن فخورون بتقديم حل ثوري يقدم رؤى تفصيلية عن سهوله استخدام محفظتك الإلكترونية، والموارد الأساسية حولها ، وعملية مبسطة لجعل أحلامك بتحويل واستلام ودفع الفلوس حقيقة.",
+          "technologies": ["html", " css", "js", "bootstrap", "react"],
           "siteUrl": "#",
-        "client":{
-          "name":"mohamed ahemd",
-          "urimage":""
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": "image"
+          }
         }
-        }
-       
-      
       },
+  
       {
         "id": "03",
-        "category":"Web Design", 
-        "bage":{
-          "imgUrl":"../../../images/Screenshot (145).png",
-          "title": "منصه زدنا خاصه بعالم التسويق",
-          "description":
-            "  منصة زدنا منصة خاصة بعالم التسويق الإلكتروني، نقدم لكم خلاصة خبرتنا، لتصلوا إلى العملاء المحتملين وتحققوا أهدافكم. التسويق الرقمي هو أول خطوة؛ من أجل بناء علامة تجارية متكاملة، معنا تحصلون على باقة متكاملة من الخدمات التي تدعم أعمالكم، تواصلوا الآن، وطوروا أعمالكم",
-          "technologies":  ["html", " css", "js", "bootstrap" , "jeQuery"],
-          "siteUrl": "https://zednah.com/",
-        "client":{
-          "name":"mohamed ahemd",
-          "urimage":""
+        "category": "Web Design",
+        "bage": {
+          "title": "موقع دورات اللغة الانجليزية",
+          "description": "موقع دورات اللغة الانجليزية للتعليم",
+          "technologies": ["html", " css", "js", "bootstrap"],
+          "imgUrl": "../../../images/pro-website-4.png",
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
+          }
         }
-        }
-       
       },
+  
       {
         "id": "04",
         "category": "Web Design",
-        "bage":{
+        "bage": {
           "title": "موقع المركز الادارى للتدريب المالى",
-          "description":
-            "موقع المركز الادارى للتدريب المالى  هو منصه تعليمه كامله يتيح للطلاب فتح حساب عن طريق الفيسبوك او جوجل  عرض جميع الكورسات مع فلتره لجميع الكورسات حسب التخصص  ",
+          "description": "موقع المركز الادارى للتدريب المالى  هو منصه تعليمه كامله يتيح للطلاب فتح حساب عن طريق الفيسبوك او جوجل  عرض جميع الكورسات مع فلتره لجميع الكورسات حسب التخصص .",
           "technologies": ["html", " css", "js", "bootstrap"],
           "imgUrl": "../../../../images/img-pro-4.png",
           "siteUrl": "#",
-        "client":{
-          "name":"mohamed ahemd",
-          "urimage":""
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
+          }
         }
-        }
-       
-      
       },
-       
-      
-      
-        {
-          "id": "05",
-          "category": "Web Design",
-          "bage":{
-            "title": "اوكودا لخدمات التصميم",
-            "description":
-          "تأسست شركة اوكودا لخدمات التصميم في السعودية على يد كوادر طموحة، مبدعة، وذات خبرة واسعة في مجال التصميم الإبداعي، لتصبح واحدة من أكبر الشركات الرسمية والمعتمدة المتخصصة في مجالات التصميم وبناء العلامات التجارية وحلول الإعلان في السعوديه والشرق",
-          "technologies": ["html" , "css" , "js" , "react"],
+  
+      {
+        "id": "05",
+        "category": "Web Design",
+        "bage": {
+          "title": "اوكودا لخدمات التصميم",
+          "description": "أسست شركة اوكودا لخدمات التصميم في السعودية على يد كوادر طموحة، مبدعة، وذات خبرة واسعة في مجال التصميم الإبداعي، لتصبح واحدة من أكبر الشركات الرسمية والمعتمدة المتخصصة في مجالات التصميم وبناء العلامات التجارية وحلول الإعلان في السعوديه والشرق",
+          "technologies": ["html", "css", "js", "react"],
           "imgUrl": "../../../images/Screenshot (147).png",
           "siteUrl": "#",
-          "client":{
-            "name":"mohamed ahemd",
-            "urimage":""
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
           }
+        }
+      },
+
+      {
+        "id": "06",
+        "category": "logo Desigin",
+        "bage": {
+          "title": "تصميم شعار الشربيني",
+          "description": "الشربيني لجميع أعمال الزجاج والألومنيوم",
+          "technologies": ["html", " css", "js"],
+          "imgUrl": "../../../images/pro-logo-3.jpg",
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
           }
-         
-        },
-        {
-          "id": "06",
-          "category": "Mobile App",
-          "bage":{
-            "imgUrl": "../../../images/ui-2.png",
-          "title": "تطبيق غالى الائتمان",
-          "description":
-            "تصميم تطبيق غالى الائتمان ui && ux",
-          "technologies": ["html", " css", "js", "bootstrap" , "react"],
-          "siteUrl": "https://warm-platypus-62d546.netlify.app/",
-              "client":{
-                "name":"mohamed ahemd",
-                "urimage":"image"
-              }
-            }
-         
-        },
-     
-        {
-          "id": "07",
-          "category": "Web Design",
-          "bage":{
-            "title": "موقع عالم كوره",
-            "description":
-            "موقع عالم كوره موقع متخصص فى اخبار الرياضه ومتبع نتائج المباريات  وجميع الدوريات وامكانيه متابع المباريات لايف ",
-          "technologies": ["html" , "css" , "js" , "react"],
+        }
+      },
+
+      
+      {
+        "id": "07",
+        "category": "Web Design",
+        "bage": {
+          "title": "موقع عالم كوره",
+          "description": "موقع عالم كوره موقع متخصص فى اخبار الرياضه ومتبع نتائج المباريات  وجميع الدوريات وامكانيه متابع المباريات لايف",
+          "technologies": ["html", "css", "js", "react"],
           "imgUrl": "../../../images/img-pro-1.png",
           "siteUrl": "#",
-          "client":{
-            "name":"mohamed ahemd",
-            "urimage":""
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
           }
-          }
-         
-        },
-        {
-          "id": "08",
-          "imgUrl": "company1",
-          "category": "Web Design",
-          "bage":{
-            "title": "موقع لشركه كونيكت باور ",
-            "description":
-              "موقع استشارات هندسيه لشركه كونيت باور الاماراتيه الموقع  يتحدث عن الشركه واعمالها وسائل التواصل  واخر المشاريع وصفحه مخصصه عن كل مشروع وتواصل عن طريق الاميل ايضا ",
-            "technologies": ["html", " css", "js", "bootstrap"],
-            "siteUrl": "#",
-          "imgUrl": "../../../../images/img-pro-3.png",
-          "client":{
-            "name":"mohamed ahemd",
-            "urimage":""
-          }
-         
-          }
-        
-        },
-        {
-          "id": "09",
-          "category": "Ux Desigin",
-          "bage":{
-            "imgUrl": "../../../images/ui-4.png",
-            "title": "Alconcierge Website",
-            "description":
-              "ui && ux Alconcierge Website",
-            "technologies": ["html", " css", "js", "bootstrap" , "react"],
-            "siteUrl": "https://astrophile.onrender.com/",
-              "client":{
-                "name":"mohamed ahemd",
-                "urimage":"image"
-              }
-            }
-         
-        },
-        {
-          "id": "10",
-          "category": "Ux Desigin",
-          "bage":{
-            "imgUrl": "../../../images/ui-6.png",
-            "title": "Alconcierge-Website",
-            "description":
-              "ui && ux Alconcierge Website",
-            "technologies": ["html", " css", "js", "bootstrap" , "react"],
-            "siteUrl": "https://astrophile.onrender.com/",
-              "client":{
-                "name":"mohamed ahemd",
-                "urimage":"image"
-              }
-            }
-         
-        },
-        {
-          "id": "11",
-          "category":"Mobile App", 
-          "bage":{
-            "imgUrl": "../../../images/ui-8.png",
-            "title": "Com&herb تطبيق",
-            "description":
-              " يقدم لك Com&herb كتالوجًا شاملاً من المنتجات، تم تصميمه بعناية لتلبية احتياجاتك المتنوعة. سواء كنت تبحث عن ملابس الموضة، أو الإلكترونيات، أو ديكور المنزل، أو منتجات الصحة والعافية، فإن تطبيقنا يقدم مجموعة واسعة من أفضل العلامات التجارية والبائعين الموثوقين. مع Com&herb، يمكنك استكشاف عالم من الإمكانيات في متناول يدك.",
-            "technologies":  ["html", " css", "js", "bootstrap" , "jeQuery"],
-            "siteUrl": "#",
-          "client":{
-            "name":"mohamed ahemd",
-            "urimage":""
-          }
-          }
-         
-        },
-    
-        {
-          "id": "12",
-          "category": "Mobile App",
-          "bage":{
-        "imgUrl": "../../../images/ui-9.png",
-          "title": " تطبيق فاتوره",
-          "description":
-            "مرحبًا بك في فاتورة، التطبيق النهائي المصمم لتبسيط عمليات الدفع للشركات. نحن متحمسون لتقديم حل قوي يعمل على تبسيط عملية إعداد الفواتير وإعداد الفواتير وتحصيل المدفوعات، مما يمكّن الشركات من التركيز على ما تفعله بشكل أفضل. مع فاتورة، إدارة معاملاتك المالية لم تكن أسهل من أي وقت مضى.",
-          "technologies": ["html", " css", "js", "bootstrap" , "react"],
+        }
+      },
+      {
+        "id": "08",
+        "category": "Web Design",
+        "bage": {
+          "title": "موقع لشركه كونيكت باو",
+          "description": "موقع استشارات هندسيه لشركه كونيت باور الاماراتيه الموقع  يتحدث عن الشركه واعمالها وسائل التواصل  واخر المشاريع وصفحه مخصصه عن كل مشروع وتواصل عن طريق الاميل ايضا",
+          "technologies": ["html", " css", "js", "bootstrap"],
           "siteUrl": "#",
-          "client":{
-            "name":"mohamed ahemd",
-            "urimage":""
+          "imgUrl": "../../../../images/img-pro-3.png",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
           }
+        }
+      },
+  
+      {
+        "id": "09",
+        "category": "Ux/Ui Desigin",
+        "bage": {
+          "imgUrl": "../../../images/ui-4.png",
+          "title": "موقع Alconcierge",
+          "description": "تصميم موقع Alconcierge ui/ux",
+          "technologies": ["html", " css", "js", "bootstrap", "react"],
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": "image"
           }
-         
-        },
-      
-   
-      
-        {
-          "id": "13", 
-          "category": "Mobile App",
-          "bage":{
-            "title": " تطبيق لتنظيم الرحلات والسفر ",
-            "description":
-            "مرحبًا بك في Vacation، التطبيق الشامل المصمم لتحسين تجارب سفرك وتبسيط تنظيم الرحلة. يسعدنا أن نقدم حلاً شاملاً يمكّن المسافرين من تخطيط وحجز وتنسيق كل جانب من جوانب رحلاتهم. مع Vacation، أصبحت إجازة أحلامك على بعد بضع نقرات فقط.",
+        }
+      },
+  
+      {
+        "id": "10",
+        "category": "Ux/Ui Desigin",
+        "bage": {
+          "imgUrl": "../../../images/ui-6.png",
+          "title": " تصميم موقع ميثاق",
+          "description": "ui && ux تصميم موقع ميثاق",
+          "technologies": ["html", " css", "js", "bootstrap", "react"],
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": "image"
+          }
+        }
+      },
+      {
+        "id": "11",
+        "category": "Mobile App",
+        "bage": {
+          "imgUrl": "../../../images/ui-8.png",
+          "title": "Com&herb تطبيق",
+          "description": "يقدم لك Com&herb كتالوجًا شاملاً من المنتجات، تم تصميمه بعناية لتلبية احتياجاتك المتنوعة. سواء كنت تبحث عن ملابس الموضة، أو الإلكترونيات، أو ديكور المنزل، أو منتجات الصحة والعافية، فإن تطبيقنا يقدم مجموعة واسعة من أفضل العلامات التجارية والبائعين الموثوقين. مع Com&herb، يمكنك استكشاف عالم من الإمكانيات في متناول يدك.",
+          "technologies": ["html", " css", "js", "bootstrap", "jeQuery"],
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
+          }
+        }
+      },
+      {
+        "id": "12",
+        "category": "Mobile App",
+        "bage": {
+          "imgUrl": "../../../images/ui-9.png",
+          "title": "تطبيق فاتوره ",
+          "description": "مرحبًا بك في فاتورة، التطبيق النهائي المصمم لتبسيط عمليات الدفع للشركات. نحن متحمسون لتقديم حل قوي يعمل على تبسيط عملية إعداد الفواتير وإعداد الفواتير وتحصيل المدفوعات، مما يمكّن الشركات من التركيز على ما تفعله بشكل أفضل. مع فاتورة، إدارة معاملاتك المالية لم تكن أسهل من أي وقت مضى",
+          "technologies": ["html", " css", "js", "bootstrap", "react"],
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
+          }
+        }
+      },
+      {
+        "id": "13",
+        "category": "Mobile App",
+        "bage": {
+          "title": "تطبيق لتنظيم الرحلات والسفر",
+          "description": "مرحبًا بك في Vacation، التطبيق الشامل المصمم لتحسين تجارب سفرك وتبسيط تنظيم الرحلة. يسعدنا أن نقدم حلاً شاملاً يمكّن المسافرين من تخطيط وحجز وتنسيق كل جانب من جوانب رحلاتهم. مع Vacation، أصبحت إجازة أحلامك على بعد بضع نقرات فقط.",
           "technologies": ["html", " css", "js"],
           "imgUrl": "../../../images/ui-10.png",
           "siteUrl": "#",
-          "client":{
-            "name":"mohamed ahemd",
-            "urimage":""
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
           }
-          }
-          
-        },
-        {
-          "id": "14", 
-          "category": "Ux Desigin",
-          "bage":{
-            "title": "ASSOCIATION منصه تهدف لحمايه الثره السمكيه ",
-            "description":
-            "ASSOCIATION منصه وطنيهتهدف للمساهمه فى تطوير قطاع ثروه سمكيهورقميه الاسواق وزياده شفافيتهاوتعزيز الاستدامه",
+        }
+      },
+      {
+        "id": "14",
+        "category": "Ux/Ui Desigin",
+        "bage": {
+          "title": "تصميم منصه quartier",
+          "description": "تصميم منصه quartier للخدمات النسائية",
           "technologies": ["html", " css", "js"],
           "imgUrl": "../../../images/ui-13.png",
           "siteUrl": "#",
-          "client":{
-            "name":"mohamed ahemd",
-            "urimage":""
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
           }
-          }
-          
-        },
-        {
-          "id": "15", 
-          "category": "logo Desigin",
-          "bage":{
-            "title": "ASSOCIATION FOR THE MARKETING OF FISH RESOURCES ",
-            "description":
-            "ASSOCIATION is a national advice that aims to contribute to the development of the fisheries sector and the digitalization of markets, increasing their transparency and enhancing sustainability",        "technologies": ["html", " css", "js"],
-          "imgUrl": "../../../images//logoserv-1.jpeg",
-          "siteUrl": "#",
-          "client":{
-            "name":"mohamed ahemd",
-            "urimage":""
-          }
-          }
-          
-        },
-        {
-          "id": "16", 
-          "category": "logo Desigin",
-          "bage":{
-            "title": "ASSOCIATION FOR THE MARKETING OF FISH RESOURCES ",
-            "description":
-            "ASSOCIATION is a national advice that aims to contribute to the development of the fisheries sector and the digitalization of markets, increasing their transparency and enhancing sustainability",        "technologies": ["html", " css", "js"],
-          "imgUrl": "../../../images/logoserv-2.jpeg",
-          "siteUrl": "#",
-          "client":{
-            "name":"mohamed ahemd",
-            "urimage":""
-          }
-          }
-          
-        },
-        {
-          "id": "17", 
-          "category": "logo Desigin",
-          "bage":{
-            "title": "ASSOCIATION FOR THE MARKETING OF FISH RESOURCES ",
-            "description":
-            "ASSOCIATION is a national advice that aims to contribute to the development of the fisheries sector and the digitalization of markets, increasing their transparency and enhancing sustainability",        "technologies": ["html", " css", "js"],
-          "imgUrl": "../../../images/WhatsApp Image 2023-09-04 at 7.29.58 AM.jpeg",
-          "siteUrl": "#",
-          "client":{
-            "name":"mohamed ahemd",
-            "urimage":""
-          }
-          }
-          
         }
-
-      ],
+      },
+      {
+        "id": "15",
+        "category": "Web Design",
+        "bage": {
+          "title": "شركه ترينداد",
+          "description": "تريندد هى شريكك فى قياده النجاح من خلال حلول الاعمال الشامله تم انشاءه برؤيه لتمكين الشركات عبر الصناعات ونحن متخصصون فى متنوعه من الخدمات التى تلبى احتياجك يشمل نهجنا الشامل  حمايه الاعمال وتخطيط الاعمال",
+          "technologies": ["html", " css", "js", "bootstrap"],
+          "imgUrl": "../../../images/trendad.jpeg",
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
+          }
+        }
+      },
+  
+      {
+        "id": "16",
+        "category": "logo Desigin",
+        "bage": {
+          "title": "العلامات التجارية للأغذية الأخطبوط",
+          "description": "العلامة التجارية للأغذية الأخطبوط، وهوية العلامة التجارية، وتصميم العلامة التجارية",
+          "technologies": ["html", " css", "js"],
+          "imgUrl": "../../../images/pro-logo-2.jpg",
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
+          }
+        }
+      },
+      {
+        "id": "17",
+        "category": "Mobile App",
+        "bage": {
+          "imgUrl": "../../../images/ui-2.png",
+          "title": "طبيق غالى الائتمان",
+          "description": "تصميم تطبيق غالى الائتمان ui && ux",
+          "technologies": ["html", " css", "js", "bootstrap", "react"],
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": "image"
+          }
+        }
+      },
+      {
+        "id": "18",
+        "category": "logo Desigin",
+        "bage": {
+          "title": "تصميم هوية العلامة التجارية Rantas",
+          "description": "تصميم هوية العلامة التجارية Rantas",
+          "technologies": ["html", " css", "js"],
+          "imgUrl": "../../../images/pro-logo-4.jpg",
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
+          }
+        }
+      },
+      {
+        "id": "19",
+        "category": "logo Desigin",
+        "bage": {
+          "title": "التمويل، تصميم العلامات التجارية، الهوية البصرية",
+          "description": "التمويل، تصميم العلامات التجارية، الهوية البصرية",
+          "technologies": ["html", " css", "js"],
+          "imgUrl": "../../../images/pro-logo-5.jpg",
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
+          }
+        }
+      },
+      {
+        "id": "20",
+        "category": "logo Desigin",
+        "bage": {
+          "title": "وكالة سفر، تصميم الشعار",
+          "description": "وكالة سفر، تصميم الشعار، الشعار",
+          "technologies": ["html", " css", "js"],
+          "imgUrl": "../../../images/pro-logo-6.jpg",
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
+          }
+        }
+      },
+      {
+        "id": "21",
+        "category": "logo Desigin",
+        "bage": {
+          "title": "level up تصميم هوية العلامة التجارية",
+          "description": "level up تصميم هوية العلامة التجارية",
+          "technologies": ["html", " css", "js"],
+          "imgUrl": "../../../images/pro-logo-7.jpg",
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
+          }
+        }
+      },
+      {
+        "id": "22",
+        "category": "logo Desigin",
+        "bage": {
+          "title": "شركة العزب",
+          "description": "تصميم شعار شركة العزب",
+          "technologies": ["html", " css", "js"],
+          "imgUrl": "../../../images/pro-logo-8.jpg",
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
+          }
+        }
+      },
+      {
+        "id": "23",
+        "category": "logo Desigin",
+        "bage": {
+          "title": "ماركة الطائرات",
+          "description": "شعار العلامة التجارية للطائرات، تصميم الشعار",
+          "technologies": ["html", " css", "js"],
+          "imgUrl": "../../../images/pro-logo-9.jpg",
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
+          }
+        }
+      },
+      {
+        "id": "24",
+        "category": "logo Desigin",
+        "bage": {
+          "title": "الهوية، هوية العلامة التجارية",
+          "description": "الهوية، هوية العلامة التجارية، الهوية البصرية",
+          "technologies": ["html", " css", "js"],
+          "imgUrl": "../../../images/pro-logo-10.jpg",
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
+          }
+        }
+      },
+      {
+        "id": "25",
+        "category": "Mobile App",
+        "bage": {
+          "imgUrl": "../../../images/mobile-app-1.png",
+          "title": "Favorhood تطبيق",
+          "description": "favorhood يعينكم ويساعد بعضكم بعضا",
+          "technologies": ["html", " css", "js", "bootstrap", "react"],
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": "image"
+          }
+        }
+      },
+  
+      {
+        "id": "26",
+        "category": "Ux/Ui Desigin",
+        "bage": {
+          "imgUrl": "../../../images/pro-ui-1.png",
+          "title": "تطبيق تدوين الملاحظات - Note Whit",
+          "description": "تطبيق تدوين الملاحظات UI/UX - Note Whit",
+          "technologies": ["html", " css", "js", "bootstrap", "react"],
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": "image"
+          }
+        }
+      },
+  
+      {
+        "id": "27",
+        "category": "Ux/Ui Desigin",
+        "bage": {
+          "imgUrl": "../../../images/pro-ui-2.png",
+          "title": "تصميم تطبيق orbit",
+          "description": "تطبيق تحقيق الأهداف المستدامة UI/UX",
+          "technologies": ["html", " css", "js", "bootstrap", "react"],
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": "image"
+          }
+        }
+      },
+  
+      {
+        "id": "28",
+        "category": "Ux/Ui Desigin",
+        "bage": {
+          "imgUrl": "../../../images/pro-ui-3.png",
+          "title": "تطبيق التجارة الإلكترونية ui/ux",
+          "description": "تطبيق التجارة الإلكترونية ui/ux",
+          "technologies": ["html", " css", "js", "bootstrap", "react"],
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": "image"
+          }
+        }
+      },
+  
+      {
+        "id": "29",
+        "category": "Ux/Ui Desigin",
+        "bage": {
+          "imgUrl": "../../../images/pro-ui-4.png",
+          "title": "تطبيق توصيل البيتزا ui/ux",
+          "description": "تطبيق توصيل البيتزا ui/ux",
+          "technologies": ["html", " css", "js", "bootstrap", "react"],
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": "image"
+          }
+        }
+      },
+      {
+        "id": "30",
+        "category": "Ux/Ui Desigin",
+        "bage": {
+          "imgUrl": "../../../images/pro-ui-5.png",
+          "title": "الوكالة الرقمية صفحة هبوط",
+          "description": "Ux/Ui الوكالة الرقمية صفحة هبوط",
+          "technologies": ["html", " css", "js", "bootstrap", "react"],
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": "image"
+          }
+        }
+      },
+      {
+        "id": "31",
+        "category": "Ux/Ui Desigin",
+        "bage": {
+          "imgUrl": "../../../images/pro-ui-6.png",
+          "title": "موقع لسماعات ابل airpods pro",
+          "description": "أبل إيربودز برو 02 ui/ux",
+          "technologies": ["html", " css", "js", "bootstrap", "react"],
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": "image"
+          }
+        }
+      },
+      {
+        "id": "32",
+        "category": "Ux/Ui Desigin",
+        "bage": {
+          "imgUrl": "../../../images/pro-ui-7.png",
+          "title": "النظام المصرفي",
+          "description": "Ux/Ui النظام المصرفي (تطبيق الهاتف)",
+          "technologies": ["html", " css", "js", "bootstrap", "react"],
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": "image"
+          }
+        }
+      },
+      {
+        "id": "33",
+        "category": "Ux/Ui Desigin",
+        "bage": {
+          "imgUrl": "../../../images/pro-ui-8.jpg",
+          "title": "لوحة تحكم ألعاب الوحدة",
+          "description": "ui/ux Unity -Light theme- لوحة تحكم الألعاب - الإمارات العربية المتحدة",
+          "technologies": ["html", " css", "js", "bootstrap", "react"],
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": "image"
+          }
+        }
+      },
+      {
+        "id": "34",
+        "category": "Ux/Ui Desigin",
+        "bage": {
+          "imgUrl": "../../../images/pro-ui-9.jpg",
+          "title": "Watchkart-سوق الساعات للتجارة الإلكترونية",
+          "description": "ui/ux Watchkart-سوق الساعات للتجارة الإلكترونية - الإمارات العربية المتحدة",
+          "technologies": ["html", " css", "js", "bootstrap", "react"],
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": "image"
+          }
+        }
+      },
+      {
+        "id": "35",
+        "category": "Web Design",
+        "bage": {
+          "title": "صفحه هبوط للنقل والمواصلات",
+          "description": "صفحه هبوط للنقل والمواصلات",
+          "technologies": ["html", " css", "js", "bootstrap"],
+          "imgUrl": "../../../images/pro-website-1.png",
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
+          }
+        }
+      },
+      {
+        "id": "36",
+        "category": "Web Design",
+        "bage": {
+          "title": "متجر الاطفال موقع التجارة الإلكترونية",
+          "description": "متجر الاطفال موقع التجارة الإلكترونية",
+          "technologies": ["html", " css", "js", "bootstrap"],
+          "imgUrl": "../../../images/pro-website-2.png",
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
+          }
+        }
+      },
+      {
+        "id": "37",
+        "category": "Web Design",
+        "bage": {
+          "title": "صفحه هبوط للعقارات",
+          "description": "صفحه هبوط للعقارات",
+          "technologies": ["html", " css", "js", "bootstrap"],
+          "imgUrl": "../../../images/pro-website-3.png",
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
+          }
+        }
+      },
+  
+      {
+        "id": "38",
+        "category": "Web Design",
+        "bage": {
+          "imgUrl": "../../../images/Screenshot (145).png",
+          "title": "منصه زدنا خاصه بعالم التسويق",
+          "description": "منصة زدنا منصة خاصة بعالم التسويق الإلكتروني، نقدم لكم خلاصة خبرتنا، لتصلوا إلى العملاء المحتملين وتحققوا أهدافكم. التسويق الرقمي هو أول خطوة؛ من أجل بناء علامة تجارية متكاملة، معنا تحصلون على باقة متكاملة من الخدمات التي تدعم أعمالكم، تواصلوا الآن، وطوروا أعمالكم",
+          "technologies": ["html", " css", "js", "bootstrap", "jeQuery"],
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
+          }
+        }
+      },
+  
+      {
+        "id": "39",
+        "category": "Mobile App",
+        "bage": {
+          "title": "eventy تطبيق",
+          "description": "eventy تطيبق | تطبيق الهاتف |",
+          "technologies": ["html", " css", "js", "bootstrap"],
+          "imgUrl": "../../../images/mobile-app-2.png",
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
+          }
+        }
+      },
+      {
+        "id": "40",
+        "category": "Mobile App",
+        "bage": {
+          "title": "تطبيق مكياج للهاتف",
+          "description": "تطبيق مكياج للهاتف | تطبيقات الهاتف المتحرك |",
+          "technologies": ["html", " css", "js", "bootstrap"],
+          "imgUrl": "../../../images/mobile-app-3.jpg",
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
+          }
+        }
+      },
+      {
+        "id": "41",
+        "category": "Mobile App",
+        "bage": {
+          "title": "تطبيف المنبه",
+          "description": "تطبيق التنبيه للهاتف | تطبيقات الهاتف المتحرك |",
+          "technologies": ["html", " css", "js", "bootstrap"],
+          "imgUrl": "../../../images/mobile-app-4.jpg",
+          "siteUrl": "#",
+          "client": {
+            "name": "mohamed ahemd",
+            "urimage": ""
+          }
+        }
+      }
+    ],
       "show more":"رؤيه المزيد",
       "provile_text" :"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
       "provile_header" :"فريق كودزن",
@@ -658,6 +989,8 @@
         "la_massage": "كيف يمكننا خدمتك ؟",
         "submit": "إرسال"
       },
-      "contact-us":"تواصل معنا"
+      "contact-us":"تواصل معنا",
+      "doesfit":"هل هذه الفكره تناسبك ؟",
+      "all_work":"جميع الاعمال من هنا"
 
 }

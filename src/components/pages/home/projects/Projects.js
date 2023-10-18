@@ -53,14 +53,6 @@ const Projects = () => {
                               src="images/gr2.svg"
                               alt="sort"
                             />
-                            <img
-                              className={grid2 === 12 ? "active" : " "}
-                              onClick={() => {
-                                setGrid(12);
-                              }}
-                              src="images/gr.svg"
-                              alt="sort"
-                            />
                           </div>
               </div>
               

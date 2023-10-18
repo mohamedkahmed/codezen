@@ -97,7 +97,7 @@ const Contact = () => {
                       value={customer_data.name}
                       id="name"
                       placeholder={t("contact.la_name")}
-                   
+                      required
                     />
                   
                   </div>
@@ -139,7 +139,6 @@ const Contact = () => {
                       name="message"
                       onChange={inputHandelar}
                       id="message"
-                      required
                       value={customer_data.message}
                     
                     ></textarea>

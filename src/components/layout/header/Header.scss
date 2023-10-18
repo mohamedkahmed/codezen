@@ -1,8 +1,11 @@
+@import "../../variables/variables.scss";
+
 .header {
     width:100%;
     height: 120vh;
     position: relative;
     overflow: hidden;
+    background-color: $color_2;
     .backgorund-video {
         top: 0;
         left: 0;

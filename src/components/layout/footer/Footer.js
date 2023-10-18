@@ -55,7 +55,7 @@ const form_submit = async (e) =>{
         <div className="container">
           <div className="row">
             <div className="col-lg-5 col-md-6 col-12">
-              <div className="sign d-flex align-items-center text-white" style={{marginBottom:"30px"}}>
+              <div className="sign d-flex align-items-center text-white">
                 <img loading="lazy" src="../images/newsletter.png" alt="newsletter" />
                 <p>{t('footer_upper.best_inbox')}</p>
               </div>
