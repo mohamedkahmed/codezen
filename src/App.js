@@ -2,14 +2,15 @@ import React, { Suspense, lazy, useEffect } from "react";
 import { BrowserRouter, Routes, Route, createBrowserRouter , RouterProvider} from "react-router-dom";
 import Layout from './components/layout/Layout';
 import {Home ,About , Erorrpage , Servies ,OurWork , Contact , SingleProduct} from "./components/pages/index"
+import { toast } from "react-toastify";
 const App = () => {
 
  
 
 
-/*   const handleCopy = (event) => {
+   const handleCopy = (event) => {
     event.preventDefault()
-    alert('Copying content from this site is not allowed.')
+    toast.error('Copying content from this site is not allowed.')
   }
 
   useEffect(() => {
@@ -18,7 +19,7 @@ const App = () => {
       window.removeEventListener('copy', handleCopy)
     }
   
-  },[]) */
+  },[]) 
 const router = createBrowserRouter([
   {
     path:"/",

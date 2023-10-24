@@ -9,27 +9,28 @@ const languages = [
   {
     code: "en",
     name: "English",
-    counury_code: "gb"
+    counury_code: "gb",
+    dir: "ltr"
   },
 
   {
     code: "ar",
     name: "العربية",
-    counury_code: "sa",
-    dir: "rtl"
+    counury_code: "sa"
+    
   }
 ]
 
 
 function Langs() {
 
-  const currentLangaugesCode = cookies.get('i18next') || 'en';
+  const currentLangaugesCode = cookies.get('i18next') || 'ar';
   const currentLanguage = languages.find(l => l.code === currentLangaugesCode);
 
   const {t} = useTranslation();
 
   useEffect(() => {
-    document.body.dir = currentLanguage.dir || 'ltr'
+    document.body.dir = currentLanguage.dir || 'rtl'
     document.title = t('title');
   }, [currentLanguage, t]);
 

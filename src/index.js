@@ -15,6 +15,7 @@ import Loading from './components/loading/Loading';
 import { AppProvider } from './components/context/context.jsx';
 import {HelmetProvider} from "react-helmet-async"
 import App from "./App"
+import "./App.scss"
 
 i18n
   .use(initReactI18next) // passes i18n down to react-i18next
@@ -22,7 +23,7 @@ i18n
   .use(HttpApi)
   .init({
     supportedLngs:['en', 'ar'],
-    fallbackLng: "en",
+    fallbackLng: "ar",
     // order and from where user language should be detected
     detection: {  order: ['path', 'cookie', 'htmlTag', 'localStorage', 'subdomain'],
     caches: ['cookie']

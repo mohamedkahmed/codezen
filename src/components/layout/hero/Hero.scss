@@ -24,7 +24,7 @@
         justify-content: center;
         flex-direction: column;
         p {
-            font-size: 38px;
+            font-size: 40px;
             text-transform: capitalize;
             line-height: 1.8;
             font-weight: bold;
@@ -49,12 +49,23 @@
             flex-direction: column;
             height: 100%;
           img {
-              width: 600px;
+              width: 550px;
               object-fit: cover;
               margin-top: 100px;
           }
       
         }
+}
+
+
+[dir="rtl"] {
+    #title {
+        .text-title {
+            p {
+                font-size: 45px;
+            }
+        }
+    }
 }
 
 
@@ -65,9 +76,9 @@
             .text-title {
                 text-align: start !important;
             p {
-                font-size: 30px;
+                font-size: 40px;
                 text-transform: capitalize ;
-                  line-height: 1.8;
+                  line-height: 2;
                   width: 100%!important;
 
             } }
@@ -98,11 +109,11 @@
 @media (min-width: 576px) and (max-width: 767.98px) { 
     #title {
         .text-title {
-            text-align: center !important;
+            text-align: start !important;
         p {
-            font-size: 48px;
-            text-transform: capitalize;
-              line-height: 1.8;
+            font-size: 40px;
+            text-transform: capitalize ;
+              line-height: 2;
               width: 100%!important;
 
         } }

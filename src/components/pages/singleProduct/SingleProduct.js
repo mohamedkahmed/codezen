@@ -212,7 +212,7 @@ const SingleProduct = () => {
 
                   <div className="single-product-buttons">
                     <button type="submit" className="btn">
-                      {t("send_message")}
+                      {t("submit")}
                     </button>
                   </div>
                 </form>

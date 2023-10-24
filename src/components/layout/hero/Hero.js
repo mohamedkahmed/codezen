@@ -9,7 +9,7 @@ const Fade = () => {
     <div className="container">
     <div id='title'>
     <div className="row">
-        <div className="col-lg-6 col-12">
+        <div className="col-lg-7 col-12">
             <div className="text-title">
               <p>{t('hero_title')} <span> {t('hero_title_span')} </span></p>
               <div>
@@ -19,7 +19,7 @@ const Fade = () => {
             </div>
         
         </div>
-        <div className="col-lg-6 col-12">
+        <div className="col-lg-5 col-12">
               <div className="ava-img">
                 <img src="../images/icon-hero.png" alt="hero img" />
             </div>

@@ -38,8 +38,8 @@
   "where_wantgo": "Where do you want to go ?",
   "servies_more": "Explore More",
   "order": "start project",
-  "hero_title": "a software house that offers web and apps development services to help you achieve your",
-  "hero_title_span": "goals",
+  "hero_title": "Media Company provides you with programming, electronic marketing, and graphic design services to achieve your",
+  "hero_title_span": "project goals",
   "contact_us": "contact us",
   "who_we_are": "who we are",
   "servies_header": "Our services",
@@ -118,6 +118,18 @@
       ],
       "header": "Graphic Design",
       "text": "We provide graphic design services, which include designing images, graphics, charts, and other visual elements used in marketing, advertising, and communication. Graphic design involves the use of colors, fonts, images, and graphics to convey a specific message and make it more convincing and appealing to customers. We work professionally and aim to achieve the best results for our clients in the shortest possible time"
+    },
+    {
+      "id": 7,
+      "iconUrl": "../../../images/sevices-single-1.png",
+      "explore": [
+        "Website Management",
+        "Application Management",
+        "Social Media Account Management",
+        "Analytics and Reporting"
+      ],
+      "header": "Website, Application, and Social Media Management Service",
+      "text": "Our company offers a comprehensive service in website, application, and social media management to enhance your digital presence and achieve online success. Whether you own a website, a mobile application, or social media accounts, our service aims to improve and optimize their performance and quality."
     }
   ],
 
