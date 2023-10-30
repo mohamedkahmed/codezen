@@ -40,7 +40,7 @@
     "where_wantgo":"اين تريد ان تذهب؟",
     "servies_more":"معرفه المزيد",
     "order": "أبدا مشروعك",
-    "hero_title": "شركة ميديا توفر لك خدمات البرمجة والتسويق الإلكتروني والجرافيك ديزاين لتحقيق ",
+    "hero_title": "شركة كودزن توفر لك خدمات البرمجة والتسويق الإلكتروني والجرافيك ديزاين لتحقيق ",
     "hero_title_span": "اهداف مشروعك",
     "contact_us": "تواصل معنا",
     "who_we_are": "من نحن",
@@ -204,7 +204,7 @@
           "title": "تصميم شعار هوية العلامة التجارية الطبية",
           "description": "تصميم شعار هوية العلامة التجارية الطبية للخدمات الطبية",
           "technologies": ["html", " css", "js"],
-          "imgUrl": "../../../images/pro-logo-1.jpg",
+          "imgUrl": "../../../images/pro-logo-1.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -216,7 +216,7 @@
         "id": "02",
         "category": "Mobile App",
         "bage": {
-          "imgUrl": "../../../images/ui-7.png",
+          "imgUrl": "../../../images/ui-7.webp",
           "title": "تطبيق SafePay ",
           "description": "مرحبًا بك في تطبيق SafePay، تطبيقك الشامل المصمم لتوفير المعلومات والخدمات الأساسية للمحفظتك الإلكترونية. نحن فخورون بتقديم حل ثوري يقدم رؤى تفصيلية عن سهوله استخدام محفظتك الإلكترونية، والموارد الأساسية حولها ، وعملية مبسطة لجعل أحلامك بتحويل واستلام ودفع الفلوس حقيقة.",
           "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -235,7 +235,7 @@
           "title": "موقع دورات اللغة الانجليزية",
           "description": "موقع دورات اللغة الانجليزية للتعليم",
           "technologies": ["html", " css", "js", "bootstrap"],
-          "imgUrl": "../../../images/pro-website-4.png",
+          "imgUrl": "../../../images/pro-website-4.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -251,7 +251,7 @@
           "title": "موقع المركز الادارى للتدريب المالى",
           "description": "موقع المركز الادارى للتدريب المالى  هو منصه تعليمه كامله يتيح للطلاب فتح حساب عن طريق الفيسبوك او جوجل  عرض جميع الكورسات مع فلتره لجميع الكورسات حسب التخصص .",
           "technologies": ["html", " css", "js", "bootstrap"],
-          "imgUrl": "../../../../images/img-pro-4.png",
+          "imgUrl": "../../../../images/img-pro-4.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -267,7 +267,7 @@
           "title": "اوكودا لخدمات التصميم",
           "description": "أسست شركة اوكودا لخدمات التصميم في السعودية على يد كوادر طموحة، مبدعة، وذات خبرة واسعة في مجال التصميم الإبداعي، لتصبح واحدة من أكبر الشركات الرسمية والمعتمدة المتخصصة في مجالات التصميم وبناء العلامات التجارية وحلول الإعلان في السعوديه والشرق",
           "technologies": ["html", "css", "js", "react"],
-          "imgUrl": "../../../images/Screenshot (147).png",
+          "imgUrl": "../../../images/Screenshot (147).webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -283,7 +283,7 @@
           "title": "تصميم شعار الشربيني",
           "description": "الشربيني لجميع أعمال الزجاج والألومنيوم",
           "technologies": ["html", " css", "js"],
-          "imgUrl": "../../../images/pro-logo-3.jpg",
+          "imgUrl": "../../../images/pro-logo-3.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -300,7 +300,7 @@
           "title": "موقع عالم كوره",
           "description": "موقع عالم كوره موقع متخصص فى اخبار الرياضه ومتبع نتائج المباريات  وجميع الدوريات وامكانيه متابع المباريات لايف",
           "technologies": ["html", "css", "js", "react"],
-          "imgUrl": "../../../images/img-pro-1.png",
+          "imgUrl": "../../../images/img-pro-1.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -316,7 +316,7 @@
           "description": "موقع استشارات هندسيه لشركه كونيت باور الاماراتيه الموقع  يتحدث عن الشركه واعمالها وسائل التواصل  واخر المشاريع وصفحه مخصصه عن كل مشروع وتواصل عن طريق الاميل ايضا",
           "technologies": ["html", " css", "js", "bootstrap"],
           "siteUrl": "#",
-          "imgUrl": "../../../../images/img-pro-3.png",
+          "imgUrl": "../../../../images/img-pro-3.webp",
           "client": {
             "name": "mohamed ahemd",
             "urimage": ""
@@ -328,7 +328,7 @@
         "id": "09",
         "category": "Ux/Ui Desigin",
         "bage": {
-          "imgUrl": "../../../images/ui-4.png",
+          "imgUrl": "../../../images/ui-4.webp",
           "title": "موقع Alconcierge",
           "description": "تصميم موقع Alconcierge ui/ux",
           "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -344,7 +344,7 @@
         "id": "10",
         "category": "Ux/Ui Desigin",
         "bage": {
-          "imgUrl": "../../../images/ui-6.png",
+          "imgUrl": "../../../images/ui-6.webp",
           "title": " تصميم موقع ميثاق",
           "description": "ui && ux تصميم موقع ميثاق",
           "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -359,7 +359,7 @@
         "id": "11",
         "category": "Mobile App",
         "bage": {
-          "imgUrl": "../../../images/ui-8.png",
+          "imgUrl": "../../../images/ui-8.webp",
           "title": "Com&herb تطبيق",
           "description": "يقدم لك Com&herb كتالوجًا شاملاً من المنتجات، تم تصميمه بعناية لتلبية احتياجاتك المتنوعة. سواء كنت تبحث عن ملابس الموضة، أو الإلكترونيات، أو ديكور المنزل، أو منتجات الصحة والعافية، فإن تطبيقنا يقدم مجموعة واسعة من أفضل العلامات التجارية والبائعين الموثوقين. مع Com&herb، يمكنك استكشاف عالم من الإمكانيات في متناول يدك.",
           "technologies": ["html", " css", "js", "bootstrap", "jeQuery"],
@@ -374,7 +374,7 @@
         "id": "12",
         "category": "Mobile App",
         "bage": {
-          "imgUrl": "../../../images/ui-9.png",
+          "imgUrl": "../../../images/ui-9.webp",
           "title": "تطبيق فاتوره ",
           "description": "مرحبًا بك في فاتورة، التطبيق النهائي المصمم لتبسيط عمليات الدفع للشركات. نحن متحمسون لتقديم حل قوي يعمل على تبسيط عملية إعداد الفواتير وإعداد الفواتير وتحصيل المدفوعات، مما يمكّن الشركات من التركيز على ما تفعله بشكل أفضل. مع فاتورة، إدارة معاملاتك المالية لم تكن أسهل من أي وقت مضى",
           "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -392,7 +392,7 @@
           "title": "تطبيق لتنظيم الرحلات والسفر",
           "description": "مرحبًا بك في Vacation، التطبيق الشامل المصمم لتحسين تجارب سفرك وتبسيط تنظيم الرحلة. يسعدنا أن نقدم حلاً شاملاً يمكّن المسافرين من تخطيط وحجز وتنسيق كل جانب من جوانب رحلاتهم. مع Vacation، أصبحت إجازة أحلامك على بعد بضع نقرات فقط.",
           "technologies": ["html", " css", "js"],
-          "imgUrl": "../../../images/ui-10.png",
+          "imgUrl": "../../../images/ui-10.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -407,7 +407,7 @@
           "title": "تصميم منصه quartier",
           "description": "تصميم منصه quartier للخدمات النسائية",
           "technologies": ["html", " css", "js"],
-          "imgUrl": "../../../images/ui-13.png",
+          "imgUrl": "../../../images/ui-13.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -422,7 +422,7 @@
           "title": "شركه ترينداد",
           "description": "تريندد هى شريكك فى قياده النجاح من خلال حلول الاعمال الشامله تم انشاءه برؤيه لتمكين الشركات عبر الصناعات ونحن متخصصون فى متنوعه من الخدمات التى تلبى احتياجك يشمل نهجنا الشامل  حمايه الاعمال وتخطيط الاعمال",
           "technologies": ["html", " css", "js", "bootstrap"],
-          "imgUrl": "../../../images/trendad.jpeg",
+          "imgUrl": "../../../images/trendad.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -438,7 +438,7 @@
           "title": "العلامات التجارية للأغذية الأخطبوط",
           "description": "العلامة التجارية للأغذية الأخطبوط، وهوية العلامة التجارية، وتصميم العلامة التجارية",
           "technologies": ["html", " css", "js"],
-          "imgUrl": "../../../images/pro-logo-2.jpg",
+          "imgUrl": "../../../images/pro-logo-2.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -450,7 +450,7 @@
         "id": "17",
         "category": "Mobile App",
         "bage": {
-          "imgUrl": "../../../images/ui-2.png",
+          "imgUrl": "../../../images/ui-2.webp",
           "title": "طبيق غالى الائتمان",
           "description": "تصميم تطبيق غالى الائتمان ui && ux",
           "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -468,7 +468,7 @@
           "title": "تصميم هوية العلامة التجارية Rantas",
           "description": "تصميم هوية العلامة التجارية Rantas",
           "technologies": ["html", " css", "js"],
-          "imgUrl": "../../../images/pro-logo-4.jpg",
+          "imgUrl": "../../../images/pro-logo-4.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -483,7 +483,7 @@
           "title": "التمويل، تصميم العلامات التجارية، الهوية البصرية",
           "description": "التمويل، تصميم العلامات التجارية، الهوية البصرية",
           "technologies": ["html", " css", "js"],
-          "imgUrl": "../../../images/pro-logo-5.jpg",
+          "imgUrl": "../../../images/pro-logo-5.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -498,7 +498,7 @@
           "title": "وكالة سفر، تصميم الشعار",
           "description": "وكالة سفر، تصميم الشعار، الشعار",
           "technologies": ["html", " css", "js"],
-          "imgUrl": "../../../images/pro-logo-6.jpg",
+          "imgUrl": "../../../images/pro-logo-6.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -513,7 +513,7 @@
           "title": "level up تصميم هوية العلامة التجارية",
           "description": "level up تصميم هوية العلامة التجارية",
           "technologies": ["html", " css", "js"],
-          "imgUrl": "../../../images/pro-logo-7.jpg",
+          "imgUrl": "../../../images/pro-logo-7.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -528,7 +528,7 @@
           "title": "شركة العزب",
           "description": "تصميم شعار شركة العزب",
           "technologies": ["html", " css", "js"],
-          "imgUrl": "../../../images/pro-logo-8.jpg",
+          "imgUrl": "../../../images/pro-logo-8.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -543,7 +543,7 @@
           "title": "ماركة الطائرات",
           "description": "شعار العلامة التجارية للطائرات، تصميم الشعار",
           "technologies": ["html", " css", "js"],
-          "imgUrl": "../../../images/pro-logo-9.jpg",
+          "imgUrl": "../../../images/pro-logo-9.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -558,7 +558,7 @@
           "title": "الهوية، هوية العلامة التجارية",
           "description": "الهوية، هوية العلامة التجارية، الهوية البصرية",
           "technologies": ["html", " css", "js"],
-          "imgUrl": "../../../images/pro-logo-10.jpg",
+          "imgUrl": "../../../images/pro-logo-10.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -570,7 +570,7 @@
         "id": "25",
         "category": "Mobile App",
         "bage": {
-          "imgUrl": "../../../images/mobile-app-1.png",
+          "imgUrl": "../../../images/mobile-app-1.webp",
           "title": "Favorhood تطبيق",
           "description": "favorhood يعينكم ويساعد بعضكم بعضا",
           "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -586,7 +586,7 @@
         "id": "26",
         "category": "Ux/Ui Desigin",
         "bage": {
-          "imgUrl": "../../../images/pro-ui-1.png",
+          "imgUrl": "../../../images/pro-ui-1.webp",
           "title": "تطبيق تدوين الملاحظات - Note Whit",
           "description": "تطبيق تدوين الملاحظات UI/UX - Note Whit",
           "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -602,7 +602,7 @@
         "id": "27",
         "category": "Ux/Ui Desigin",
         "bage": {
-          "imgUrl": "../../../images/pro-ui-2.png",
+          "imgUrl": "../../../images/pro-ui-2.webp",
           "title": "تصميم تطبيق orbit",
           "description": "تطبيق تحقيق الأهداف المستدامة UI/UX",
           "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -618,7 +618,7 @@
         "id": "28",
         "category": "Ux/Ui Desigin",
         "bage": {
-          "imgUrl": "../../../images/pro-ui-3.png",
+          "imgUrl": "../../../images/pro-ui-3.webp",
           "title": "تطبيق التجارة الإلكترونية ui/ux",
           "description": "تطبيق التجارة الإلكترونية ui/ux",
           "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -634,7 +634,7 @@
         "id": "29",
         "category": "Ux/Ui Desigin",
         "bage": {
-          "imgUrl": "../../../images/pro-ui-4.png",
+          "imgUrl": "../../../images/pro-ui-4.webp",
           "title": "تطبيق توصيل البيتزا ui/ux",
           "description": "تطبيق توصيل البيتزا ui/ux",
           "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -649,7 +649,7 @@
         "id": "30",
         "category": "Ux/Ui Desigin",
         "bage": {
-          "imgUrl": "../../../images/pro-ui-5.png",
+          "imgUrl": "../../../images/pro-ui-5.webp",
           "title": "الوكالة الرقمية صفحة هبوط",
           "description": "Ux/Ui الوكالة الرقمية صفحة هبوط",
           "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -664,7 +664,7 @@
         "id": "31",
         "category": "Ux/Ui Desigin",
         "bage": {
-          "imgUrl": "../../../images/pro-ui-6.png",
+          "imgUrl": "../../../images/pro-ui-6.webp",
           "title": "موقع لسماعات ابل airpods pro",
           "description": "أبل إيربودز برو 02 ui/ux",
           "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -679,7 +679,7 @@
         "id": "32",
         "category": "Ux/Ui Desigin",
         "bage": {
-          "imgUrl": "../../../images/pro-ui-7.png",
+          "imgUrl": "../../../images/pro-ui-7.webp",
           "title": "النظام المصرفي",
           "description": "Ux/Ui النظام المصرفي (تطبيق الهاتف)",
           "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -694,7 +694,7 @@
         "id": "33",
         "category": "Ux/Ui Desigin",
         "bage": {
-          "imgUrl": "../../../images/pro-ui-8.jpg",
+          "imgUrl": "../../../images/pro-ui-8.webp",
           "title": "لوحة تحكم ألعاب الوحدة",
           "description": "ui/ux Unity -Light theme- لوحة تحكم الألعاب - الإمارات العربية المتحدة",
           "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -709,7 +709,7 @@
         "id": "34",
         "category": "Ux/Ui Desigin",
         "bage": {
-          "imgUrl": "../../../images/pro-ui-9.jpg",
+          "imgUrl": "../../../images/pro-ui-9.webp",
           "title": "Watchkart-سوق الساعات للتجارة الإلكترونية",
           "description": "ui/ux Watchkart-سوق الساعات للتجارة الإلكترونية - الإمارات العربية المتحدة",
           "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -727,7 +727,7 @@
           "title": "صفحه هبوط للنقل والمواصلات",
           "description": "صفحه هبوط للنقل والمواصلات",
           "technologies": ["html", " css", "js", "bootstrap"],
-          "imgUrl": "../../../images/pro-website-1.png",
+          "imgUrl": "../../../images/pro-website-1.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -742,7 +742,7 @@
           "title": "متجر الاطفال موقع التجارة الإلكترونية",
           "description": "متجر الاطفال موقع التجارة الإلكترونية",
           "technologies": ["html", " css", "js", "bootstrap"],
-          "imgUrl": "../../../images/pro-website-2.png",
+          "imgUrl": "../../../images/pro-website-2.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -757,7 +757,7 @@
           "title": "صفحه هبوط للعقارات",
           "description": "صفحه هبوط للعقارات",
           "technologies": ["html", " css", "js", "bootstrap"],
-          "imgUrl": "../../../images/pro-website-3.png",
+          "imgUrl": "../../../images/pro-website-3.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -770,7 +770,7 @@
         "id": "38",
         "category": "Web Design",
         "bage": {
-          "imgUrl": "../../../images/Screenshot (145).png",
+          "imgUrl": "../../../images/Screenshot (145).webp",
           "title": "منصه زدنا خاصه بعالم التسويق",
           "description": "منصة زدنا منصة خاصة بعالم التسويق الإلكتروني، نقدم لكم خلاصة خبرتنا، لتصلوا إلى العملاء المحتملين وتحققوا أهدافكم. التسويق الرقمي هو أول خطوة؛ من أجل بناء علامة تجارية متكاملة، معنا تحصلون على باقة متكاملة من الخدمات التي تدعم أعمالكم، تواصلوا الآن، وطوروا أعمالكم",
           "technologies": ["html", " css", "js", "bootstrap", "jeQuery"],
@@ -789,7 +789,7 @@
           "title": "eventy تطبيق",
           "description": "eventy تطيبق | تطبيق الهاتف |",
           "technologies": ["html", " css", "js", "bootstrap"],
-          "imgUrl": "../../../images/mobile-app-2.png",
+          "imgUrl": "../../../images/mobile-app-2.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -804,7 +804,7 @@
           "title": "تطبيق مكياج للهاتف",
           "description": "تطبيق مكياج للهاتف | تطبيقات الهاتف المتحرك |",
           "technologies": ["html", " css", "js", "bootstrap"],
-          "imgUrl": "../../../images/mobile-app-3.jpg",
+          "imgUrl": "../../../images/mobile-app-3.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -819,7 +819,7 @@
           "title": "تطبيف المنبه",
           "description": "تطبيق التنبيه للهاتف | تطبيقات الهاتف المتحرك |",
           "technologies": ["html", " css", "js", "bootstrap"],
-          "imgUrl": "../../../images/mobile-app-4.jpg",
+          "imgUrl": "../../../images/mobile-app-4.webp",
           "siteUrl": "#",
           "client": {
             "name": "mohamed ahemd",
@@ -839,7 +839,7 @@
           "jop_type" : "مبرمج الواجه الاماميه, رئيس الفريق",
           "subtitle":"تم تطوير واجهات الويب وتحسين مواقع الويب والواجهات لتناسب الأجهزة المختلفة",
           "description" :" محمد كامل مطور واجهة الويب مسؤول عن استخدام معرفته بلغات البرمجة مثل HTML و CSS وجافا سكريبت لإنشاء واجهات وصفحات ويب سهلة الاستخدام. يقومون بتطوير العناصر المرئية والأزرار القابلة للنقر التي تشكل التطبيقات والمواقع من جانب المستخدم التي يتفاعل معها الأشخاص على الويب. إنهم يعملون عن كثب مع العملاء لتحديد احتياجاتهم والتأكد من أن مواقع الويب وتطبيقات الويب التي ينشئونها مُحسَّنة لأجهزة سطح المكتب والأجهزة المحمولة. يعد Web Front-End Developer مسؤولاً أيضًا عن صيانة وتحسين مواقع الويب والواجهات لضمان استمرارها في تلبية الاحتياجات المتطورة للمستخدمين.",
-          "image":"../../../images/photo1685202021.jpg",
+          "image":"../../../images/photo1685202021.webp",
           "technologies":["html5" , "css3" , "javascript" , "react " , "react_query" , "jeQuery" , "Tailwind css" , "bootstrap" , "fairebase"],
           "project_complate" :"20",
           "experince" :"ثلاث سنوات من الخبره "
@@ -851,7 +851,7 @@
           "subtitle":"تم تطوير واجهات الويب وتحسين مواقع الويب والواجهات لتناسب الأجهزة المختلفة",
           "description":"يوسف رواج مطور Web Front-End مسؤول عن استخدام معرفته بلغات البرمجة مثل HTML و CSS وجافا سكريبت لإنشاء واجهات وصفحات ويب سهلة الاستخدام. يقومون بتطوير العناصر المرئية والأزرار القابلة للنقر التي تشكل التطبيقات والمواقع من جانب المستخدم التي يتفاعل معها الأشخاص على الويب. إنهم يعملون عن كثب مع العملاء لتحديد احتياجاتهم والتأكد من أن مواقع الويب وتطبيقات الويب التي ينشئونها مُحسَّنة لأجهزة سطح المكتب والأجهزة المحمولة. يعد Web Front-End Developer مسؤولاً أيضًا عن صيانة وتحسين مواقع الويب والواجهات لضمان استمرارها في تلبية الاحتياجات المتطورة للمستخدمين.",
           "jop_type" : "مبرمج الواجه الاماميه, رئيس الفريق",
-          "image":"../../../images/reduce.png",
+          "image":"../../../images/reduce.webp",
           "technologies":["html5" , "css3" , "javascript" , "react " , "react_query" , "jeQuery" , "Tailwind css" , "bootstrap" , "fairebase"],
           "project_complate" :"20",
           "experince" :"ثلاث سنوات من الخبره "
@@ -862,7 +862,7 @@
           "name":"وائل كمال",
           "jop_type" : "قائد الفريق",
           "subtitle":"مؤسس الفريق ، قائد فريق SEO ومنشئ العلامة التجارية && هو خبير محترف في تحسين محركات البحث يتمتع بخبرة واسعة",
-          "image":"../../../images/wael.jpg",
+          "image":"../../../images/wael.webp",
           "description": "والى كامل (المؤسس) هو خبير محترف في تحسين محركات البحث يتمتع بخبرة واسعة في إدارة محركات البحث والتسويق الإلكتروني. نجح في تطوير وإنشاء العديد من العلامات التجارية في مصر والخارج. يتمتع وائل كمال  بمهارات وخبرات واسعة في تحسين محركات البحث ، مما يؤهله لمساعدتك في الصعود إلى أعلى نتائج الصفحة الأولى بخطة واضحة ومنظمة. يمكنه المساعدة في إدارة مواقع الويب وتحليل المنافسين وإعداد خطط تسويقية متكاملة وتطوير الاستراتيجيات اللازمة لنجاح علامتك التجارية. تشمل مهارات وائل كمال أيضًا خبرة كبيرة في العديد من لغات البرمجة والتي تمكنه من أداء مهمته بامتياز ونجاح.",
           "technologies":["php" , "Node.js" , "sql" , "dtabase mangment ", "c++" , "c#" , "laravel " , "expresses.js"],
           "project_complate" :"15",
@@ -874,7 +874,7 @@
           "name":"يوسف عصام",
           "jop_type" : "مصمم جرافيك",
           "subtitle" :"مصمم غرافيك متخصص في وسائل التواصل الاجتماعي وتصميمات الهوية المطبوعة والمرئية ومنشورات الجرافيك",
-          "image":"../../../images/tem-1.jpeg",
+          "image":"../../../images/tem-1.webp",
           "description" :"يوسف عصام لديه خبرة في تحويل أي تصميم إلى موقع على شبكة الإنترنت والعمل في مشاريع كبيرة مع إطار عمل تفاعلي ، خبرة في العمل في مشاريع كبيرة مع واجهة برمجة تطبيقات عمل وباكند قابلة للتوافق معها",
           "technologies":["fagma" , "pohatosop" , "logo design" , "socail medai desiagn " , "edit images "],
           "project_complate" :"15",
@@ -897,7 +897,7 @@
           "id" : "06",
           "name":"احمد رضا",
           "jop_type" : "مبرمج تطبيقات",
-          "image":"../../../images/ahmed.jpg",
+          "image":"../../../images/ahmed.webp",
           "subtitle":"مبرمج التطبيقات المحمولة بتصميم وبرمجة التطبيقات المخصصة للأجهزة المحمولة مثل الهواتف الذكية والأجهزة اللوحية",
           "description" :"مبرمج التطبيقات المحمولة بتصميم وبرمجة التطبيقات المخصصة للأجهزة المحمولة مثل الهواتف الذكية والأجهزة اللوحية",
           "technologies":["facebook ads" , "instgram ads" , "sanpshite ads" , "google ads" ],
@@ -909,7 +909,7 @@
           "id" : "07",
           "name":"رنا النبوي",
           "jop_type" : "تصمم وجهات المستخدم",
-          "image":"../../../images/rana.jpg",
+          "image":"../../../images/rana.webp",
           "subtitle":"مصمم واجهة المستخدم وتجربة المستخدم (UI/UX Designer) هو المسؤول عن تصميم وتطوير واجهة المستخدم وتجربة المستخدم لتطبيقات الويب والمواقع والتطبيقات المحمولة  يهدف المصمم UI/UX إلى خلق تجربة مستخدم مريحة وسلسة وجذابة للمستخدمين.",
           "description" :"مصمم واجهة المستخدم وتجربة المستخدم (UI/UX Designer) هو المسؤول عن تصميم وتطوير واجهة المستخدم وتجربة المستخدم لتطبيقات الويب والمواقع والتطبيقات المحمولة  يهدف المصمم UI/UX إلى خلق تجربة مستخدم مريحة وسلسة وجذابة للمستخدمين.",
           "technologies":["facebook ads" , "instgram ads" , "sanpshite ads" , "google ads" ],

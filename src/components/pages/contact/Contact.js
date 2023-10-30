@@ -1,6 +1,5 @@
 import React from "react";
 import "./contact.scss";
-import contact from "../images/contact.png";
 import BreadCrumb from "../breadCrumb/BreadCrumb";
 import { useTranslation } from 'react-i18next';
 import { useState } from "react";

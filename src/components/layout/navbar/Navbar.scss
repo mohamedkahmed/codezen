@@ -1,22 +1,20 @@
-@import '../../variables/variables.scss';
-@import '../../variables/mixins.scss';
-
+@import "../../variables/variables.scss";
+@import "../../variables/mixins.scss";
 
 /************
  ////////// Navbar ////////
  ************/
 
-
- .navbar {
+.navbar {
     /* background-color: $color-2; */
     padding: 1.5rem 0;
     position: absolute;
     top: 0;
     left: 0;
-    transition: all .5s ease-in-out;
+    transition: all 0.5s ease-in-out;
     z-index: 999999;
     width: 100%;
-  
+
     &.active {
         background-color: $color-2;
         padding: 1.5rem 0;
@@ -26,14 +24,14 @@
         top: 0;
         left: 0;
     }
-    .language-in-responsive{
+    .language-in-responsive {
         display: none;
     }
-    .navbar-toggler{
+    .navbar-toggler {
         background: none !important;
         border: none !important;
         outline: none !important;
-        .icon{
+        .icon {
             font-size: 35px;
             color: $color-1;
         }
@@ -41,20 +39,20 @@
     .navbar-collapse {
         .navbar-nav {
             width: 83%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: transparent;
-    gap: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: transparent;
+            gap: 30px;
         }
         .langs {
             display: flex;
             align-items: center;
-                a {
-                    @include creatBtn;
-                    font-size: 13px;
-                    text-decoration: none;
-                }
+            a {
+                @include creatBtn;
+                font-size: 13px;
+                text-decoration: none;
+            }
         }
     }
     .logo {
@@ -71,29 +69,26 @@
     .navbar-nav .nav-link.active {
         color: $color-1;
     }
- }
+}
 
- [dir="rtl"] {
+[dir="rtl"] {
     .navbar {
         .nav-link {
             font-size: $font_16;
         }
         .navbar-collapse {
             .langs {
-                    a {
-                        @include creatBtn;
-                    }
+                a {
+                    @include creatBtn;
+                }
             }
         }
-     }
- }
+    }
+}
 
-
-
- @media (max-width: 575.98px) {
-
+@media (max-width: 575.98px) {
     .navbar {
-        .language-in-responsive{
+        .language-in-responsive {
             display: block;
         }
         .navbar-collapse {
@@ -108,12 +103,12 @@
             }
         }
     }
- }
+}
 
- // Small devices (landscape phones, 576px and up)
-@media (min-width: 576px) and (max-width: 767.98px) { 
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767.98px) {
     .navbar {
-        .language-in-responsive{
+        .language-in-responsive {
             display: block;
         }
         .navbar-collapse {
@@ -128,12 +123,12 @@
             }
         }
     }
- }
+}
 
- // Medium devices (tablets, 768px and up)
-@media (min-width: 768px) and (max-width: 991.98px) { 
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991.98px) {
     .navbar {
-        .language-in-responsive{
+        .language-in-responsive {
             display: block;
         }
         .navbar-collapse {
@@ -148,4 +143,4 @@
             }
         }
     }
- }
+}

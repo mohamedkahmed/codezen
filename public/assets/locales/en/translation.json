@@ -38,7 +38,7 @@
   "where_wantgo": "Where do you want to go ?",
   "servies_more": "Explore More",
   "order": "start project",
-  "hero_title": "Media Company provides you with programming, electronic marketing, and graphic design services to achieve your",
+  "hero_title": "codezen Company provides you with programming, electronic marketing, and graphic design services to achieve your",
   "hero_title_span": "project goals",
   "contact_us": "contact us",
   "who_we_are": "who we are",
@@ -236,7 +236,7 @@
         "title": "Medical brand identity logo design",
         "description": "Medical brand identity logo design For medical services",
         "technologies": ["html", " css", "js"],
-        "imgUrl": "../../../images/pro-logo-1.jpg",
+        "imgUrl": "../../../images/pro-logo-1.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -248,7 +248,7 @@
       "id": "02",
       "category": "Mobile App",
       "bage": {
-        "imgUrl": "../../../images/ui-7.png",
+        "imgUrl": "../../../images/ui-7.webp",
         "title": "SafePay app",
         "description": "Welcome to SafePay, your one-stop app designed to provide essential information and services for your e-wallet. We are proud to offer a revolutionary solution that provides detailed insights into the ease of use of your e-wallet, essential resources around it, and a simplified process to make your dreams of transferring, receiving and paying money a reality.",
         "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -267,7 +267,7 @@
         "title": "English courses website",
         "description": "English courses website",
         "technologies": ["html", " css", "js", "bootstrap"],
-        "imgUrl": "../../../images/pro-website-4.png",
+        "imgUrl": "../../../images/pro-website-4.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -283,7 +283,7 @@
         "title": "Website of the Administrative Center for Financial Training",
         "description": "The Administrative Center for Financial Training website is a complete educational platform that allows students to open an account via Facebook or Google. View all courses with a filter for all courses according to specialization.",
         "technologies": ["html", " css", "js", "bootstrap"],
-        "imgUrl": "../../../../images/img-pro-4.png",
+        "imgUrl": "../../../../images/img-pro-4.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -299,7 +299,7 @@
         "title": "Ocoda Design Services",
         "description": "Ocoda Design Services was established in Saudi Arabia by ambitious, creative, and experienced cadres in the field of creative design, to become one of the largest official and accredited companies specialized in the fields of design, brand building and advertising solutions in Saudi Arabia and the Middle East",
         "technologies": ["html", "css", "js", "react"],
-        "imgUrl": "../../../images/Screenshot (147).png",
+        "imgUrl": "../../../images/Screenshot (147).webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -314,7 +314,7 @@
         "title": "El-Sherbiny logo design",
         "description": "El-Sherbiny for all glass and aluminum works",
         "technologies": ["html", " css", "js"],
-        "imgUrl": "../../../images/pro-logo-3.jpg",
+        "imgUrl": "../../../images/pro-logo-3.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -329,7 +329,7 @@
         "title": "Koura world website",
         "description": " “The World of Koura website is a website that specializes in sports news and follows the results of matches and all leagues and the ability to follow the matches live.”",
         "technologies": ["html", "css", "js", "react"],
-        "imgUrl": "../../../images/img-pro-1.png",
+        "imgUrl": "../../../images/img-pro-1.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -346,7 +346,7 @@
         "description": "“Engineering consulting website for the Emirati company Connet Power. The website talks about the company and its work, means of communication, the latest projects, a dedicated page for each project, and communication via email as well.”",
         "technologies": ["html", " css", "js", "bootstrap"],
         "siteUrl": "#",
-        "imgUrl": "../../../../images/img-pro-3.png",
+        "imgUrl": "../../../../images/img-pro-3.webp",
         "client": {
           "name": "mohamed ahemd",
           "urimage": ""
@@ -358,7 +358,7 @@
       "id": "09",
       "category": "Ux/Ui Desigin",
       "bage": {
-        "imgUrl": "../../../images/ui-4.png",
+        "imgUrl": "../../../images/ui-4.webp",
         "title": "Alconcierge Website",
         "description": "ui && ux Alconcierge Website",
         "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -374,7 +374,7 @@
       "id": "10",
       "category": "Ux/Ui Desigin",
       "bage": {
-        "imgUrl": "../../../images/ui-6.png",
+        "imgUrl": "../../../images/ui-6.webp",
         "title": "Alconcierge-Website",
         "description": "ui && ux Alconcierge Website",
         "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -389,7 +389,7 @@
       "id": "11",
       "category": "Mobile App",
       "bage": {
-        "imgUrl": "../../../images/ui-8.png",
+        "imgUrl": "../../../images/ui-8.webp",
         "title": "Com&herb",
         "description": "Com&herb brings you an extensive catalog of products, carefully curated to cater to your diverse needs. Whether you're looking for fashion apparel, electronics, home decor, or health and wellness products, our app offers an extensive selection from top brands and trusted sellers. With Com&herb, you can explore a world of possibilities at your fingertips.",
         "technologies": ["html", " css", "js", "bootstrap", "jeQuery"],
@@ -404,7 +404,7 @@
       "id": "12",
       "category": "Mobile App",
       "bage": {
-        "imgUrl": "../../../images/ui-9.png",
+        "imgUrl": "../../../images/ui-9.webp",
         "title": "Fatora app ",
         "description": "Welcome to Fatora, the ultimate app designed to streamline payment processes for businesses. We are excited to present a powerful solution that simplifies invoicing, billing, and payment collection, empowering businesses to focus on what they do best. With Fatora, managing your financial transactions has never been easier.",
         "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -422,7 +422,7 @@
         "title": "Vacation app ",
         "description": "Welcome to Vacation, the all-in-one app designed to enhance your travel experiences and simplify trip organization. We are thrilled to present a comprehensive solution that empowers travelers to plan, book, and coordinate every aspect of their journeys. With Vacation, your dream vacation is just a few taps away.",
         "technologies": ["html", " css", "js"],
-        "imgUrl": "../../../images/ui-10.png",
+        "imgUrl": "../../../images/ui-10.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -437,7 +437,7 @@
         "title": "ASSOCIATION FOR THE MARKETING OF FISH RESOURCES ",
         "description": "ASSOCIATION is a national advice that aims to contribute to the development of the fisheries sector and the digitalization of markets, increasing their transparency and enhancing sustainability",
         "technologies": ["html", " css", "js"],
-        "imgUrl": "../../../images/ui-13.png",
+        "imgUrl": "../../../images/ui-13.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -452,7 +452,7 @@
         "title": "Trendad company ",
         "description": "“Trend is your partner in driving success through comprehensive business solutions. It was created with a vision to empower companies across industries. We specialize in a variety of services that meet your needs. Our comprehensive approach includes business protection and business planning.”",
         "technologies": ["html", " css", "js", "bootstrap"],
-        "imgUrl": "../../../images/trendad.jpeg",
+        "imgUrl": "../../../images/trendad.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -468,7 +468,7 @@
         "title": "Octopus food branding",
         "description": "Octopus food branding, brand identity, brand design",
         "technologies": ["html", " css", "js"],
-        "imgUrl": "../../../images/pro-logo-2.jpg",
+        "imgUrl": "../../../images/pro-logo-2.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -480,7 +480,7 @@
       "id": "17",
       "category": "Mobile App",
       "bage": {
-        "imgUrl": "../../../images/ui-2.png",
+        "imgUrl": "../../../images/ui-2.webp",
         "title": "Ghali Alathman app",
         "description": "ui && ux Ghali Alathman app",
         "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -499,7 +499,7 @@
         "title": "Rantas Brand identity design",
         "description": "Rantas Brand identity design",
         "technologies": ["html", " css", "js"],
-        "imgUrl": "../../../images/pro-logo-4.jpg",
+        "imgUrl": "../../../images/pro-logo-4.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -514,7 +514,7 @@
         "title": "finance, brand design, visual identity",
         "description": "finance, brand design, visual identity",
         "technologies": ["html", " css", "js"],
-        "imgUrl": "../../../images/pro-logo-5.jpg",
+        "imgUrl": "../../../images/pro-logo-5.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -529,7 +529,7 @@
         "title": "Travel agency, logo design",
         "description": "Travel agency, logo design, logotype",
         "technologies": ["html", " css", "js"],
-        "imgUrl": "../../../images/pro-logo-6.jpg",
+        "imgUrl": "../../../images/pro-logo-6.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -544,7 +544,7 @@
         "title": "Level up brand identity design",
         "description": "Level up brand identity design",
         "technologies": ["html", " css", "js"],
-        "imgUrl": "../../../images/pro-logo-7.jpg",
+        "imgUrl": "../../../images/pro-logo-7.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -559,7 +559,7 @@
         "title": "Al-AZAB company",
         "description": "Al-AZABAl-AZAB company logo design",
         "technologies": ["html", " css", "js"],
-        "imgUrl": "../../../images/pro-logo-8.jpg",
+        "imgUrl": "../../../images/pro-logo-8.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -574,7 +574,7 @@
         "title": "Aircraft brand",
         "description": "Aircraft brand logo, logo design",
         "technologies": ["html", " css", "js"],
-        "imgUrl": "../../../images/pro-logo-9.jpg",
+        "imgUrl": "../../../images/pro-logo-9.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -589,7 +589,7 @@
         "title": "identity, brand identity",
         "description": "identity, brand identity, visual identity",
         "technologies": ["html", " css", "js"],
-        "imgUrl": "../../../images/pro-logo-10.jpg",
+        "imgUrl": "../../../images/pro-logo-10.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -601,7 +601,7 @@
       "id": "25",
       "category": "Mobile App",
       "bage": {
-        "imgUrl": "../../../images/mobile-app-1.png",
+        "imgUrl": "../../../images/mobile-app-1.webp",
         "title": "Favorhood App",
         "description": "favorhood helps you and help each other.",
         "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -617,7 +617,7 @@
       "id": "26",
       "category": "Ux/Ui Desigin",
       "bage": {
-        "imgUrl": "../../../images/pro-ui-1.png",
+        "imgUrl": "../../../images/pro-ui-1.webp",
         "title": "Note Taking App - Note Whit",
         "description": "UI/UX Note Taking App - Note Whit",
         "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -633,7 +633,7 @@
       "id": "27",
       "category": "Ux/Ui Desigin",
       "bage": {
-        "imgUrl": "../../../images/pro-ui-2.png",
+        "imgUrl": "../../../images/pro-ui-2.webp",
         "title": "ui/ux orbit",
         "description": "Sustainable Goal Achievement App UI/UX",
         "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -649,7 +649,7 @@
       "id": "28",
       "category": "Ux/Ui Desigin",
       "bage": {
-        "imgUrl": "../../../images/pro-ui-3.png",
+        "imgUrl": "../../../images/pro-ui-3.webp",
         "title": "E-commerce App ui/ux",
         "description": "E-commerce App ui/ux",
         "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -665,7 +665,7 @@
       "id": "29",
       "category": "Ux/Ui Desigin",
       "bage": {
-        "imgUrl": "../../../images/pro-ui-4.png",
+        "imgUrl": "../../../images/pro-ui-4.webp",
         "title": "pizza Delivery App ui/ux",
         "description": "pizza Delivery App ui/ux",
         "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -680,7 +680,7 @@
       "id": "30",
       "category": "Ux/Ui Desigin",
       "bage": {
-        "imgUrl": "../../../images/pro-ui-5.png",
+        "imgUrl": "../../../images/pro-ui-5.webp",
         "title": "Digital Agency Landing Page",
         "description": "Ux/Ui Digital Agency Landing Page",
         "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -695,7 +695,7 @@
       "id": "31",
       "category": "Ux/Ui Desigin",
       "bage": {
-        "imgUrl": "../../../images/pro-ui-6.png",
+        "imgUrl": "../../../images/pro-ui-6.webp",
         "title": "website for apple airpods pro",
         "description": "apple airpods pro 02 ui/ux",
         "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -710,7 +710,7 @@
       "id": "32",
       "category": "Ux/Ui Desigin",
       "bage": {
-        "imgUrl": "../../../images/pro-ui-7.png",
+        "imgUrl": "../../../images/pro-ui-7.webp",
         "title": "Banking system",
         "description": "Ux/Ui Banking system (mobile app)",
         "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -725,7 +725,7 @@
       "id": "33",
       "category": "Ux/Ui Desigin",
       "bage": {
-        "imgUrl": "../../../images/pro-ui-8.jpg",
+        "imgUrl": "../../../images/pro-ui-8.webp",
         "title": "Unity Gaming Dashboard",
         "description": "ui/ux Unity -Light theme- Gaming Dashboard - UAE",
         "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -740,7 +740,7 @@
       "id": "34",
       "category": "Ux/Ui Desigin",
       "bage": {
-        "imgUrl": "../../../images/pro-ui-9.jpg",
+        "imgUrl": "../../../images/pro-ui-9.webp",
         "title": "Watchkart-Ecommerce watch market",
         "description": "ui/ux Watchkart-Ecommerce watch market - united arab emirates",
         "technologies": ["html", " css", "js", "bootstrap", "react"],
@@ -758,7 +758,7 @@
         "title": "landing page of transportation",
         "description": "landing page of transportation.",
         "technologies": ["html", " css", "js", "bootstrap"],
-        "imgUrl": "../../../images/pro-website-1.png",
+        "imgUrl": "../../../images/pro-website-1.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -773,7 +773,7 @@
         "title": "kids store E-commerce website",
         "description": "kids store E-commerce website",
         "technologies": ["html", " css", "js", "bootstrap"],
-        "imgUrl": "../../../images/pro-website-2.png",
+        "imgUrl": "../../../images/pro-website-2.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -788,7 +788,7 @@
         "title": "Real estate landing page",
         "description": "Real estate landing page",
         "technologies": ["html", " css", "js", "bootstrap"],
-        "imgUrl": "../../../images/pro-website-3.png",
+        "imgUrl": "../../../images/pro-website-3.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -801,7 +801,7 @@
       "id": "38",
       "category": "Web Design",
       "bage": {
-        "imgUrl": "../../../images/Screenshot (145).png",
+        "imgUrl": "../../../images/Screenshot (145).webp",
         "title": "Zadna platform for marketing",
         "description": " Zidna platform is a platform for the world of e-marketing. We offer you a summary of our experience, to reach potential customers and achieve your goals. Digital marketing is the first step; In order to build an integrated brand, with us you get an integrated package of services that support your business, communicate now, and develop your business",
         "technologies": ["html", " css", "js", "bootstrap", "jeQuery"],
@@ -820,7 +820,7 @@
         "title": "eventy app",
         "description": "eventy app | mobile application |",
         "technologies": ["html", " css", "js", "bootstrap"],
-        "imgUrl": "../../../images/mobile-app-2.png",
+        "imgUrl": "../../../images/mobile-app-2.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -835,7 +835,7 @@
         "title": "makeup mobile app",
         "description": "makeup mobile app | mobile application |",
         "technologies": ["html", " css", "js", "bootstrap"],
-        "imgUrl": "../../../images/mobile-app-3.jpg",
+        "imgUrl": "../../../images/mobile-app-3.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -850,7 +850,7 @@
         "title": "alarm mobile app",
         "description": "alarm mobile app | mobile application |",
         "technologies": ["html", " css", "js", "bootstrap"],
-        "imgUrl": "../../../images/mobile-app-4.jpg",
+        "imgUrl": "../../../images/mobile-app-4.webp",
         "siteUrl": "#",
         "client": {
           "name": "mohamed ahemd",
@@ -871,7 +871,7 @@
       "jop_type": "web developer ( team leader )",
       "subtitle": "Developed web frontends and maintains and improves websites and interfaces to suit different devices",
       "description": " Mohame Kamal A Web Front-End Developer is responsible for using their knowledge of programming languages such as HTML, CSS, and JavaScript to create user-friendly web pages and interfaces. They develop the visual elements and clickable buttons that make up the user-side applications and sites that people interact with on the web. They work closely with clients to determine their needs and ensure that the websites and web applications they create are optimized for desktop and mobile devices. The Web Front-End Developer is also responsible for maintaining and improving websites and interfaces to ensure that they continue to meet the evolving needs of users.",
-      "image": "../../../images/photo1685202021.jpg",
+      "image": "../../../images/photo1685202021.webp",
       "technologies": [
         "html5",
         "css3",
@@ -892,7 +892,7 @@
       "subtitle": "Developed web frontends and maintains and improves websites and interfaces to suit different devices",
       "jop_type": "web developer ( team leader )",
       "description": "Youse Rawag A Web Front-End Developer is responsible for using their knowledge of programming languages such as HTML, CSS, and JavaScript to create user-friendly web pages and interfaces. They develop the visual elements and clickable buttons that make up the user-side applications and sites that people interact with on the web. They work closely with clients to determine their needs and ensure that the websites and web applications they create are optimized for desktop and mobile devices. The Web Front-End Developer is also responsible for maintaining and improving websites and interfaces to ensure that they continue to meet the evolving needs of users.",
-      "image": "../../../images/reduce.png",
+      "image": "../../../images/reduce.webp",
       "technologies": [
         "html5",
         "css3",
@@ -912,7 +912,7 @@
       "name": "wael kamal",
       "jop_type": "team Founder",
       "subtitle": "Team Founder, SEO Team Leader and Brand Builder && is a professional SEO expert with vast experience",
-      "image": "../../../images/wael.jpg",
+      "image": "../../../images/wael.webp",
       "description": "Wale Kamal (the founder) is a professional SEO expert with vast experience in search engine management and e-marketing. He has successfully developed and created many brands in Egypt and abroad. wale kamel has extensive skills and experience in search engine optimization, which qualifies him to help you climb to the first page's top results with a clear and organized plan. He can help with website management, competitor analysis, preparing integrated marketing plans, and developing necessary strategies for the success of your brand. Ahmed Nofal's skills also include great experience in many programming languages, which enables him to perform his mission with distinction and success.",
       "technologies": [
         "php",
@@ -932,7 +932,7 @@
       "name": "yousef essam",
       "jop_type": "Graphic designer",
       "subtitle": "Graphic designer specializing in social media, print and visual identity designs && publications for the graphic",
-      "image": "../../../images/tem-1.jpeg",
+      "image": "../../../images/tem-1.webp",
       "description": "yousef essam have experince to convert any design to website and  work in big projects with react framework experince with work in big projects with and comportable with working api and bakend",
       "technologies": [
         "fagma",
@@ -966,7 +966,7 @@
       "id": "06",
       "name": "Ahmed Reda",
       "jop_type": "mobile application",
-      "image": "../../../images/ahmed.jpg",
+      "image": "../../../images/ahmed.webp",
       "subtitle": "A mobile application programmer designs and programs custom applications for mobile devices such as smartphones and tablets.",
       "description": "A mobile application programmer designs and programs custom applications for mobile devices such as smartphones and tablets.",
       "technologies": [
@@ -982,7 +982,7 @@
       "id": "07",
       "name": "Raana Elnbawy",
       "jop_type": "UI & UX",
-      "image": "../../../images/rana.jpg",
+      "image": "../../../images/rana.webp",
       "subtitle": "UI/UX Designer is responsible for designing and developing the user interface and user experience for web applications, websites, and mobile applications. The UI/UX designer aims to create a comfortable, smooth, and attractive user experience for users.",
       "description": "UI/UX Designer is responsible for designing and developing the user interface and user experience for web applications, websites, and mobile applications. The UI/UX designer aims to create a comfortable, smooth, and attractive user experience for users.",
       "technologies": [

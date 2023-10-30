@@ -1,5 +1,5 @@
 import React from 'react'
-import erorrpage from "../images/erorrpage.png"
+import erorrpage from "../images/errorPage.png"
 import {Link} from "react-router-dom"
 import "./erorr.scss"
 const Erorrpage = () => {

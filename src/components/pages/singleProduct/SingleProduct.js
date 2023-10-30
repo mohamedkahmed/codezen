@@ -5,7 +5,6 @@ import BreadCrumb from "../breadCrumb/BreadCrumb";
 import { Link } from "react-router-dom";
 import { HiOutlineArrowNarrowLeft } from "react-icons/hi";
 import ReactStars from "react-rating-stars-component";
-import { BiShow } from "react-icons/bi";
 import { toast } from "react-toastify";
 import Coustomheader from "../../coustom_header/Coustomheader.jsx";
 import "../home/services/services.scss";
@@ -122,7 +121,7 @@ const SingleProduct = () => {
                     <span>
                       <ReactStars
                         count={5}
-                        size={13}
+                        size={18}
                         value={5}
                         edit={false}
                         activeColor="#ffd700"
